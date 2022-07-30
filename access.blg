@@ -1,0 +1,68 @@
+This is BibTeX, Version 0.99d
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: access.aux
+Reallocating 'name_of_file' (item size: 1) to 6 items.
+The style file: unsrt.bst
+Reallocating 'name_of_file' (item size: 1) to 10 items.
+Database file #1: mybibfile.bib
+Warning--empty journal in AtaeiACIS
+Warning--empty journal in AtaeiHype
+Warning--empty author in DataBricks
+Warning--empty journal in DataBricks
+Warning--empty year in DataBricks
+Warning--empty year in Derras
+Warning--all relevant fields are empty in JabRef
+Warning--empty journal in krippendorff2011computing
+Warning--all relevant fields are empty in CASP
+Warning--all relevant fields are empty in JBI
+Warning--empty journal in lofland1971analyzing
+Warning--empty year in Klein
+Warning--empty institution in Chang
+Warning--empty journal in chen2017big
+Warning--empty year in KazmanATAM
+Warning--empty year in Williams
+Warning--empty author in SAPRA
+Warning--empty journal in SAPRA
+Warning--empty journal in chang2015nist
+You've used 92 entries,
+            1791 wiz_defined-function locations,
+            941 strings with 19586 characters,
+and the built_in function-call counts, 21202 in all, are:
+= -- 1865
+> -- 948
+< -- 27
++ -- 356
+- -- 264
+* -- 1272
+:= -- 3222
+add.period$ -- 279
+call.type$ -- 92
+change.case$ -- 79
+chr.to.int$ -- 0
+cite$ -- 111
+duplicate$ -- 1042
+empty$ -- 2114
+format.name$ -- 264
+if$ -- 4879
+int.to.chr$ -- 0
+int.to.str$ -- 92
+missing$ -- 91
+newline$ -- 447
+num.names$ -- 86
+pop$ -- 370
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 0
+skip$ -- 561
+stack$ -- 0
+substring$ -- 1157
+swap$ -- 298
+text.length$ -- 27
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 0
+warning$ -- 19
+while$ -- 196
+width$ -- 94
+write$ -- 949
+(There were 19 warnings)

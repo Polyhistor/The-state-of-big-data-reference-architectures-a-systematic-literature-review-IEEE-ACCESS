@@ -1,0 +1,536 @@
+\begin{thebibliography}{10}
+
+\bibitem{AtaeiSecurity}
+B~Bashari~Rad, N~Akbarzadeh, P~Ataei, and Y~Khakbiz.
+\newblock Security and privacy challenges in big data era.
+\newblock {\em International Journal of Control Theory and Applications},
+  9(43):437--448, 2016.
+
+\bibitem{AtaeiACIS}
+Pouya Ataei and Alan~T Litchfield.
+\newblock Big data reference architectures, a systematic literature review.
+\newblock 2020.
+
+\bibitem{AtaeiHype}
+Babak~Bashari Rada, Pouya Ataeib, Yasaman Khakbizc, and Nafisseh Akbarzadehd.
+\newblock The hype of emerging technologies: Big data as a service.
+\newblock 2017.
+
+\bibitem{DataBricks}
+Databricks.
+
+\bibitem{NewVantageSurvey}
+NewVantage Partners.
+\newblock Big data and ai executive survey 2021, 2021.
+
+\bibitem{SigmaSurvey}
+Sigma Computing.
+\newblock Bridging the gap between data and business teams, 2020.
+
+\bibitem{AtaeiBigDataEnvirons}
+Babak~Bashari Rad and Pouya Ataei.
+\newblock The big data ecosystem and its environs.
+\newblock {\em International Journal of Computer Science and Network Security
+  (IJCSNS)}, 17(3):38, 2017.
+
+\bibitem{Gorton}
+Ian Gorton and John Klein.
+\newblock Distribution, data, deployment.
+\newblock {\em STC 2015}, page~78, 2015.
+
+\bibitem{Cloutier}
+Robert Cloutier, Gerrit Muller, Dinesh Verma, Roshanak Nilchiani, Eirik Hole,
+  and Mary Bone.
+\newblock The concept of reference architectures.
+\newblock {\em Systems Engineering}, 13(1):14--27, 2010.
+
+\bibitem{Derras}
+Mustapha Derras, Laurent Deruelle, Jean-Michel Douin, Nicole Levy, Francisca
+  Losavio, Yann Pollet, and Valérie Reiner.
+\newblock Reference architecture design: A practical approach.
+\newblock In {\em ICSOFT}, pages 633--640.
+
+\bibitem{Iso18384-1}
+ISO Iso.
+\newblock Information technology — reference architecture for service
+  oriented architecture (soa ra) — part 1: Terminology and concepts for soa.
+\newblock {\em International Organization for Standardization}, page~51, 2016.
+
+\bibitem{muller2008reference}
+Gerrit Muller.
+\newblock A reference architecture primer.
+\newblock {\em Eindhoven Univ. of Techn., Eindhoven, White paper}, 2008.
+
+\bibitem{angelov2009classification}
+Samuil Angelov, Paul Grefen, and Danny Greefhorst.
+\newblock A classification of software reference architectures: Analyzing their
+  success and effectiveness.
+\newblock In {\em 2009 Joint Working IEEE/IFIP Conference on Software
+  Architecture \& European Conference on Software Architecture}, pages
+  141--150. IEEE, 2009.
+
+\bibitem{Bass}
+Len Bass, Ingo Weber, and Liming Zhu.
+\newblock {\em DevOps: A software architect's perspective}.
+\newblock Addison-Wesley Professional, 2015.
+
+\bibitem{page2021prisma}
+Matthew~J Page, David Moher, Patrick~M Bossuyt, Isabelle Boutron, Tammy~C
+  Hoffmann, Cynthia~D Mulrow, Larissa Shamseer, Jennifer~M Tetzlaff, Elie~A
+  Akl, Sue~E Brennan, et~al.
+\newblock Prisma 2020 explanation and elaboration: updated guidance and
+  exemplars for reporting systematic reviews.
+\newblock {\em Bmj}, 372, 2021.
+
+\bibitem{rethlefsen2021prisma}
+Melissa~L Rethlefsen, Shona Kirtley, Siw Waffenschmidt, Ana~Patricia Ayala,
+  David Moher, Matthew~J Page, and Jonathan~B Koffel.
+\newblock Prisma-s: an extension to the prisma statement for reporting
+  literature searches in systematic reviews.
+\newblock {\em Systematic reviews}, 10(1):1--19, 2021.
+
+\bibitem{kitchenham2015evidence}
+Barbara~Ann Kitchenham, David Budgen, and Pearl Brereton.
+\newblock {\em Evidence-based software engineering and systematic reviews},
+  volume~4.
+\newblock CRC press, 2015.
+
+\bibitem{borrego2014systematic}
+Maura Borrego, Margaret~J Foster, and Jeffrey~E Froyd.
+\newblock Systematic literature reviews in engineering education and other
+  developing interdisciplinary fields.
+\newblock {\em Journal of Engineering Education}, 103(1):45--76, 2014.
+
+\bibitem{JabRef}
+
+
+\bibitem{krippendorff2011computing}
+Klaus Krippendorff.
+\newblock Computing krippendorff's alpha-reliability.
+\newblock 2011.
+
+\bibitem{noblit1988meta}
+George~W Noblit, R~Dwight Hare, and R~Dwight Hare.
+\newblock {\em Meta-ethnography: Synthesizing qualitative studies}, volume~11.
+\newblock sage, 1988.
+
+\bibitem{dybaa2008empirical}
+Tore Dyb{\aa} and Torgeir Dings{\o}yr.
+\newblock Empirical studies of agile software development: A systematic review.
+\newblock {\em Information and software technology}, 50(9-10):833--859, 2008.
+
+\bibitem{cumpston2019updated}
+Miranda Cumpston, Tianjing Li, Matthew~J Page, Jacqueline Chandler, Vivian~A
+  Welch, Julian~PT Higgins, and James Thomas.
+\newblock Updated guidance for trusted systematic reviews: a new edition of the
+  cochrane handbook for systematic reviews of interventions.
+\newblock {\em Cochrane Database Syst Rev}, 10(10.1002):14651858, 2019.
+
+\bibitem{CASP}
+
+
+\bibitem{JBI}
+
+
+\bibitem{runeson2006we}
+Per Runeson, Carina Andersson, Thomas Thelin, Anneliese Andrews, and Tomas
+  Berling.
+\newblock What do we know about defect detection methods?[software testing].
+\newblock {\em IEEE software}, 23(3):82--90, 2006.
+
+\bibitem{kitchenham2002preliminary}
+Barbara~A Kitchenham, Shari~Lawrence Pfleeger, Lesley~M Pickard, Peter~W Jones,
+  David~C. Hoaglin, Khaled El~Emam, and Jarrett Rosenberg.
+\newblock Preliminary guidelines for empirical research in software
+  engineering.
+\newblock {\em IEEE Transactions on software engineering}, 28(8):721--734,
+  2002.
+
+\bibitem{cruzes2011recommended}
+Daniela~S Cruzes and Tore Dyba.
+\newblock Recommended steps for thematic synthesis in software engineering.
+\newblock In {\em 2011 international symposium on empirical software
+  engineering and measurement}, pages 275--284. IEEE, 2011.
+
+\bibitem{braun2006using}
+Virginia Braun and Victoria Clarke.
+\newblock Using thematic analysis in psychology.
+\newblock {\em Qualitative research in psychology}, 3(2):77--101, 2006.
+
+\bibitem{dyba2007applying}
+Tore Dyba, Torgeir Dingsoyr, and Geir~K Hanssen.
+\newblock Applying systematic reviews to diverse study types: An experience
+  report.
+\newblock In {\em First international symposium on empirical software
+  engineering and measurement (ESEM 2007)}, pages 225--234. IEEE, 2007.
+
+\bibitem{miles1994qualitative}
+Matthew~B Miles and A~Michael Huberman.
+\newblock {\em Qualitative data analysis: An expanded sourcebook}.
+\newblock sage, 1994.
+
+\bibitem{corbin2014basics}
+Juliet Corbin and Anselm Strauss.
+\newblock {\em Basics of qualitative research: Techniques and procedures for
+  developing grounded theory}.
+\newblock Sage publications, 2014.
+
+\bibitem{lofland1971analyzing}
+John Lofland and Lyn~H Lofland.
+\newblock Analyzing social settings.
+\newblock 1971.
+
+\bibitem{martinez2015solid}
+Miguel~A Mart{\'\i}nez-Prieto, Carlos~E Cuesta, Mario Arias, and Javier~D
+  Fern{\'a}ndez.
+\newblock The solid architecture for real-time management of big semantic data.
+\newblock {\em Future Generation Computer Systems}, 47:62--79, 2015.
+
+\bibitem{Sievi-Korte}
+Outi Sievi-Korte, Ita Richardson, and Sarah Beecham.
+\newblock Software architecture design in global software development: An
+  empirical study.
+\newblock {\em Journal of Systems and Software}, 158:110400, 2019.
+
+\bibitem{kohler2019towards}
+Jens Kohler and Thomas Specht.
+\newblock Towards a secure, distributed, and reliable cloud-based reference
+  architecture for big data in smart cities.
+\newblock In {\em Big Data Analytics for Smart and Connected Cities}, pages
+  38--70. IGI Global, 2019.
+
+\bibitem{zimmermann1980osi}
+Hubert Zimmermann.
+\newblock Osi reference model-the iso model of architecture for open systems
+  interconnection.
+\newblock {\em IEEE Transactions on communications}, 28(4):425--432, 1980.
+
+\bibitem{OATH}
+OATH.
+\newblock Oath reference architecture, release 2.0 initiative for open
+  authentication.
+\newblock {\em OATH}, 2007.
+
+\bibitem{pope1998corba}
+Alan~LaMont Pope.
+\newblock {\em The CORBA reference guide: understanding the common object
+  request broker architecture}.
+\newblock Addison-Wesley Longman Publishing Co., Inc., 1998.
+
+\bibitem{greefhorst1999een}
+D~Greefhorst.
+\newblock Een applicatie-architectuur voor het web bij de bank—de pro's en
+  contra's van toestandsloosheid.
+\newblock {\em Software Release Magazine}, 2, 1999.
+
+\bibitem{Klein}
+John Klein, Ross Buglak, David Blockow, Troy Wuttke, and Brenton Cooper.
+\newblock A reference architecture for big data systems in the national
+  security domain.
+\newblock In {\em 2016 IEEE/ACM 2nd International Workshop on Big Data Software
+  Engineering (BIGDSE)}, pages 51--57. IEEE.
+
+\bibitem{angelov2008towards}
+Samuil Angelov, Jos~JM Trienekens, and Paul Grefen.
+\newblock Towards a method for the evaluation of reference architectures:
+  Experiences from a case.
+\newblock In {\em European Conference on Software Architecture}, pages
+  225--240. Springer, 2008.
+
+\bibitem{stricker2010creating}
+Vanessa Stricker, Kim Lauenroth, Piero Corte, Frederic Gittler, Stefano
+  De~Panfilis, and Klaus Pohl.
+\newblock Creating a reference architecture for service-based systems--a
+  pattern-based approach.
+\newblock In {\em Towards the Future Internet}, pages 149--160. IOS Press,
+  2010.
+
+\bibitem{geerdink2013reference}
+Bas Geerdink.
+\newblock A reference architecture for big data solutions introducing a model
+  to perform predictive analytics using big data technology.
+\newblock In {\em 8th international conference for internet technology and
+  secured transactions (ICITST-2013)}, pages 71--76. IEEE, 2013.
+
+\bibitem{Chang}
+Wo~L Chang and David Boyd.
+\newblock Nist big data interoperability framework: Volume 6, big data
+  reference architecture.
+\newblock Report, 2018.
+
+\bibitem{chen2017big}
+Hong-Mei Chen, Rick Kazman, Juan Garbajosa, and Eloy Gonzalez.
+\newblock Big data value engineering for business model innovation.
+\newblock 2017.
+
+\bibitem{jagadish2014big}
+Hosagrahar~V Jagadish, Johannes Gehrke, Alexandros Labrinidis, Yannis
+  Papakonstantinou, Jignesh~M Patel, Raghu Ramakrishnan, and Cyrus Shahabi.
+\newblock Big data and its technical challenges.
+\newblock {\em Communications of the ACM}, 57(7):86--94, 2014.
+
+\bibitem{akhtar2019big}
+Pervaiz Akhtar, J{\k{e}}drzej~George Frynas, Kamel Mellahi, and Subhan Ullah.
+\newblock Big data-savvy teams’ skills, big data-driven actions and business
+  performance.
+\newblock {\em British Journal of Management}, 30(2):252--271, 2019.
+
+\bibitem{Nadal}
+Sergi Nadal, Victor Herrero, Oscar Romero, Alberto Abelló, Xavier Franch,
+  Stijn Vansummeren, and Danilo Valerio.
+\newblock A software reference architecture for semantic-aware big data
+  systems.
+\newblock {\em Information and software technology}, 90:75--92, 2017.
+
+\bibitem{pineiro2019big}
+Carlos Pi{\~n}eiro, Joaqu{\'\i}n Morales, Mar{\'\i}a Rodr{\'\i}guez, Mar{\'\i}a
+  Aparicio, Edgar~Garc{\'\i}a Manzanilla, and Yuzo Koketsu.
+\newblock Big (pig) data and the internet of the swine things: a new paradigm
+  in the industry.
+\newblock {\em Animal frontiers}, 9(2):6--15, 2019.
+
+\bibitem{rahimi2010distributed}
+Saeed~K Rahimi and Frank~S Haug.
+\newblock {\em Distributed database management systems: A Practical Approach}.
+\newblock John Wiley \& Sons, 2010.
+
+\bibitem{galster2011empirically}
+Matthias Galster and Paris Avgeriou.
+\newblock Empirically-grounded reference architectures: a proposal.
+\newblock In {\em Proceedings of the joint ACM SIGSOFT conference--QoSA and ACM
+  SIGSOFT symposium--ISARCS on Quality of software architectures--QoSA and
+  architecting critical systems--ISARCS}, pages 153--158, 2011.
+
+\bibitem{angelov2012framework}
+Samuil Angelov, Paul Grefen, and Danny Greefhorst.
+\newblock A framework for analysis and design of software reference
+  architectures.
+\newblock {\em Information and Software Technology}, 54(4):417--431, 2012.
+
+\bibitem{volk2019decision}
+Matthias Volk, Sascha Bosse, Dennis Bischoff, and Klaus Turowski.
+\newblock Decision-support for selecting big data reference architectures.
+\newblock In {\em International Conference on Business Information Systems},
+  pages 3--17. Springer, 2019.
+
+\bibitem{Iso}
+ISO Iso.
+\newblock Iec25010: 2011 systems and software engineering–systems and
+  software quality requirements and evaluation (square)–system and software
+  quality models.
+\newblock {\em International Organization for Standardization}, 34:2910, 2011.
+
+\bibitem{ISO42010}
+IEEE International Organization~for Standardization~(ISO/IEC).
+\newblock Iso/iec/ieee 42010:2011, 2017.
+
+\bibitem{josey2016introduction}
+Andrew Josey, Marc Lankhorst, Iver Band, Henk Jonkers, and Dick Quartel.
+\newblock An introduction to the archimate{\textregistered} 3.0 specification.
+\newblock {\em White Paper from The Open Group}, 2016.
+
+\bibitem{zhu2005software}
+Hong Zhu.
+\newblock {\em Software design methodology: From principles to architectural
+  styles}.
+\newblock Elsevier, 2005.
+
+\bibitem{hevner2004design}
+Alan~R Hevner, Salvatore~T March, Jinsoo Park, and Sudha Ram.
+\newblock Design science in information systems research.
+\newblock {\em MIS quarterly}, pages 75--105, 2004.
+
+\bibitem{Maier}
+Markus Maier, A~Serebrenik, and ITP Vanderfeesten.
+\newblock Towards a big data reference architecture.
+\newblock {\em University of Eindhoven}, 2013.
+
+\bibitem{Bengtsson}
+PerOlof Bengtsson, Nico Lassing, Jan Bosch, and Hans van Vliet.
+\newblock Architecture-level modifiability analysis (alma).
+\newblock {\em Journal of Systems and Software}, 69(1-2):129--147, 2004.
+
+\bibitem{kazman1994saam}
+Rick Kazman, Len Bass, Gregory Abowd, and Mike Webb.
+\newblock Saam: A method for analyzing the properties of software
+  architectures.
+\newblock In {\em Proceedings of 16th International Conference on Software
+  Engineering}, pages 81--90. IEEE, 1994.
+
+\bibitem{KazmanATAM}
+Rick Kazman, Mark Klein, Mario Barbacci, Tom Longstaff, Howard Lipson, and
+  Jeromy Carriere.
+\newblock The architecture tradeoff analysis method.
+\newblock In {\em Proceedings. Fourth IEEE International Conference on
+  Engineering of Complex Computer Systems (Cat. No. 98EX193)}, pages 68--78.
+  IEEE.
+
+\bibitem{Williams}
+Lloyd~G Williams and Connie~U Smith.
+\newblock Pasasm: a method for the performance assessment of software
+  architectures.
+\newblock In {\em Proceedings of the 3rd international workshop on Software and
+  performance}, pages 179--189.
+
+\bibitem{bosch2000design}
+Jan Bosch.
+\newblock {\em Design and use of software architectures: adopting and evolving
+  a product-line approach}.
+\newblock Pearson Education, 2000.
+
+\bibitem{avgeriou2003describing}
+Paris Avgeriou.
+\newblock Describing, instantiating and evaluating a reference architecture: A
+  case study.
+\newblock {\em Enterprise Architecture Journal}, 342:1--24, 2003.
+
+\bibitem{derras2018reference}
+Mustapha Derras, Laurent Deruelle, Jean~Michel Douin, Nicole Levy, Francisca
+  Losavio, Yann Pollet, and Val{\'e}rie Reiner.
+\newblock Reference architecture design: a practical approach.
+\newblock In {\em 13th International Conference on Software Technologies
+  (ICSOFT)}, pages 633--640. SciTePress-Science and Technology Publications,
+  2018.
+
+\bibitem{kiran2015lambda}
+Mariam Kiran, Peter Murphy, Inder Monga, Jon Dugan, and Sartaj~Singh Baveja.
+\newblock Lambda architecture for cost-effective batch and speed big data
+  processing.
+\newblock In {\em 2015 IEEE International Conference on Big Data (Big Data)},
+  pages 2785--2792. IEEE, 2015.
+
+\bibitem{quintero2019ibm}
+Dino Quintero, Frank~N Lee, et~al.
+\newblock {\em IBM reference architecture for high performance data and AI in
+  healthcare and life sciences}.
+\newblock IBM Redbooks, 2019.
+
+\bibitem{levin2013big}
+BO~Levin.
+\newblock Big data ecosystem reference architecture.
+\newblock {\em Microsoft Corporation}, 2013.
+
+\bibitem{cackett2013information}
+Doug Cackett.
+\newblock Information management and big data, a reference architecture.
+\newblock {\em Oracle: Redwood City, CA, USA}, 2013.
+
+\bibitem{viana2014proposal}
+Phillip Viana and Liria Sato.
+\newblock A proposal for a reference architecture for long-term archiving,
+  preservation, and retrieval of big data.
+\newblock In {\em 2014 IEEE 13th International Conference on Trust, Security
+  and Privacy in Computing and Communications}, pages 622--629. IEEE, 2014.
+
+\bibitem{kreps2014questioning}
+Jay Kreps.
+\newblock Questioning the lambda architecture.
+\newblock {\em Online article, July}, 205, 2014.
+
+\bibitem{SikoraWohlfeld2014}
+Weronika Sikora-Wohlfeld, Abhi Basu, Atul Butte, and Monica Martinez-Canales.
+\newblock Accelerating secondary genome analysis using intel big data reference
+  architecture.
+\newblock {\em Intel}, 09 2014.
+
+\bibitem{paakkonen2015reference}
+Pekka P{\"a}{\"a}kk{\"o}nen and Daniel Pakkala.
+\newblock Reference architecture and classification of technologies, products
+  and services for big data systems.
+\newblock {\em Big data research}, 2(4):166--186, 2015.
+
+\bibitem{SAPRA}
+Sap - nec reference architecture for sap hana \& hadoop.
+\newblock 2016.
+
+\bibitem{bilal2016big}
+Muhammad Bilal, Lukumon~O Oyedele, Olugbenga~O Akinade, Saheed~O Ajayi, Hafiz~A
+  Alaka, Hakeem~A Owolabi, Junaid Qadir, Maruf Pasha, and Sururah~A Bello.
+\newblock Big data architecture for construction waste analytics (cwa): A
+  conceptual framework.
+\newblock {\em Journal of Building Engineering}, 6:144--156, 2016.
+
+\bibitem{heilig2017managing}
+Leonard Heilig and Stefan Vo{\ss}.
+\newblock Managing cloud-based big data platforms: a reference architecture and
+  cost perspective.
+\newblock In {\em Big data management}, pages 29--45. Springer, 2017.
+
+\bibitem{sang2017simplifying}
+Go~Muan Sang, Lai Xu, and Paul~de Vrieze.
+\newblock Simplifying big data analytics systems with a reference architecture.
+\newblock In {\em Working Conference on Virtual Enterprises}, pages 242--249.
+  Springer, 2017.
+
+\bibitem{paakkonen2020extending}
+Pekka P{\"a}{\"a}kk{\"o}nen and Daniel Pakkala.
+\newblock Extending reference architecture of big data systems towards machine
+  learning in edge computing environments.
+\newblock {\em Journal of Big Data}, 7(1):1--29, 2020.
+
+\bibitem{iglesias2020big}
+Carlos~A Iglesias, Alfredo Favenza, and {\'A}lvaro Carrera.
+\newblock A big data reference architecture for emergency management.
+\newblock {\em Information}, 11(12):569, 2020.
+
+\bibitem{ISO20547}
+International~Organization for Standardization~(ISO/IEC).
+\newblock Iso/iec tr 20547-1:2020, 2020.
+
+\bibitem{maamouri2021phi}
+Amine Maamouri, Lilia Sfaxi, and Riadh Robbana.
+\newblock Phi: A generic microservices-based big data architecture.
+\newblock In {\em European, Mediterranean, and Middle Eastern Conference on
+  Information Systems}, pages 3--16. Springer, 2021.
+
+\bibitem{AtaeiApsec}
+P.~Ataei and A.~Litchfield.
+\newblock Neomycelia: A software reference architecturefor big data systems.
+\newblock In {\em 2021 28th Asia-Pacific Software Engineering Conference
+  (APSEC)}, pages 452--462, Los Alamitos, CA, USA, dec 2021. IEEE Computer
+  Society.
+
+\bibitem{House}
+Big data is a big deal.
+
+\bibitem{chang2015nist}
+Wo~L Chang, Nancy Grady, et~al.
+\newblock Nist big data interoperability framework: volume 1, big data
+  definitions.
+\newblock 2015.
+
+\bibitem{suthakar2017scalable}
+Uthayanath Suthakar.
+\newblock {\em A scalable data store and analytic platform for real-time
+  monitoring of data-intensive scientific infrastructure}.
+\newblock PhD thesis, Brunel University London, 2017.
+
+\bibitem{framework2015draft}
+DRAFT NIST Big Data~Interoperability Framework.
+\newblock Draft nist big data interoperability framework: Volume 5,
+  architectures white paper survey.
+\newblock {\em NIST Special Publication}, 2015.
+
+\bibitem{weyrich2015reference}
+Michael Weyrich and Christof Ebert.
+\newblock Reference architectures for the internet of things.
+\newblock {\em IEEE Software}, 33(1):112--116, 2015.
+
+\bibitem{khine2019review}
+Pwint~Phyu Khine and Zhaoshun Wang.
+\newblock A review of polyglot persistence in the big data world.
+\newblock {\em Information}, 10(4):141, 2019.
+
+\bibitem{marquez2018actual}
+Gast{\'o}n M{\'a}rquez and Hern{\'a}n Astudillo.
+\newblock Actual use of architectural patterns in microservices-based open
+  source projects.
+\newblock In {\em 2018 25th Asia-Pacific Software Engineering Conference
+  (APSEC)}, pages 31--40. Ieee, 2018.
+
+\bibitem{monolithToMesh}
+Zhamak Dehghani.
+\newblock How to move beyond a monolithic data lake to a distributed data mesh,
+  2019.
+
+\end{thebibliography}
