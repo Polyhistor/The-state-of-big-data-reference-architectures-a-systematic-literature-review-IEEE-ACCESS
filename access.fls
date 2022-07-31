@@ -183,37 +183,9 @@ INPUT D:\MikTex\tex\latex\psnfss\t1phv.fd
 INPUT D:\MikTex\tex\latex\psnfss\t1phv.fd
 INPUT D:\MikTex\fonts\tfm\adobe\helvetic\phvr8t.tfm
 INPUT D:\MikTex\fonts\tfm\adobe\helvetic\phvb8t.tfm
-INPUT D:\MikTex\fonts\tfm\public\amsfonts\cmextra\cmex7.tfm
-INPUT D:\MikTex\fonts\tfm\public\amsfonts\cmextra\cmex7.tfm
-INPUT D:\MikTex\tex\latex\amsfonts\umsa.fd
-INPUT D:\MikTex\tex\latex\amsfonts\umsa.fd
-INPUT D:\MikTex\fonts\tfm\public\amsfonts\symbols\msam10.tfm
-INPUT D:\MikTex\fonts\tfm\public\amsfonts\symbols\msam7.tfm
-INPUT D:\MikTex\fonts\tfm\public\amsfonts\symbols\msam5.tfm
-INPUT D:\MikTex\tex\latex\amsfonts\umsb.fd
-INPUT D:\MikTex\tex\latex\amsfonts\umsb.fd
-INPUT D:\MikTex\fonts\tfm\public\amsfonts\symbols\msbm10.tfm
-INPUT D:\MikTex\fonts\tfm\public\amsfonts\symbols\msbm7.tfm
-INPUT D:\MikTex\fonts\tfm\public\amsfonts\symbols\msbm5.tfm
-INPUT D:\MikTex\fonts\tfm\adobe\times\ptmr8t.tfm
 INPUT c:\Users\Admin\OneDrive - AUT University\PHD Journey\Papers\IEEE Access\access\bullet.png
 INPUT c:\Users\Admin\OneDrive - AUT University\PHD Journey\Papers\IEEE Access\access\bullet.png
 INPUT D:\MikTex\fonts\tfm\adobe\helvetic\phvr8t.tfm
-INPUT D:\MikTex\fonts\tfm\adobe\helvetic\phvro8t.tfm
-INPUT c:\Users\Admin\OneDrive - AUT University\PHD Journey\Papers\IEEE Access\access\notaglinelogo.png
-INPUT c:\Users\Admin\OneDrive - AUT University\PHD Journey\Papers\IEEE Access\access\notaglinelogo.png
-INPUT c:\Users\Admin\OneDrive - AUT University\PHD Journey\Papers\IEEE Access\access\notaglinelogo.png
-INPUT c:\Users\Admin\OneDrive - AUT University\PHD Journey\Papers\IEEE Access\access\notaglinelogo.png
-INPUT c:\Users\Admin\OneDrive - AUT University\PHD Journey\Papers\IEEE Access\access\notaglinelogo.png
-INPUT D:\MikTex\fonts\tfm\adobe\helvetic\phvr8t.tfm
-INPUT D:\MikTex\fonts\vf\adobe\helvetic\phvr8t.vf
-INPUT D:\MikTex\fonts\tfm\adobe\helvetic\phvr8r.tfm
-INPUT D:\MikTex\fonts\vf\adobe\helvetic\phvro8t.vf
-INPUT D:\MikTex\fonts\tfm\adobe\helvetic\phvro8r.tfm
-INPUT D:\MikTex\fonts\vf\adobe\times\ptmr8t.vf
-INPUT D:\MikTex\fonts\tfm\adobe\times\ptmr8r.tfm
-INPUT D:\MikTex\fonts\vf\adobe\helvetic\phvr8t.vf
-INPUT D:\MikTex\fonts\tfm\adobe\helvetic\phvr8r.tfm
 INPUT D:\MikTex\fonts\tfm\adobe\times\ptmr8t.tfm
 INPUT D:\MikTex\fonts\tfm\adobe\times\ptmri8t.tfm
 INPUT D:\MikTex\fonts\tfm\adobe\helvetic\phvb8t.tfm
@@ -221,9 +193,13 @@ INPUT D:\MikTex\fonts\tfm\adobe\helvetic\phvb8t.tfm
 INPUT D:\MikTex\fonts\tfm\public\cm\cmex10.tfm
 INPUT D:\MikTex\fonts\tfm\public\amsfonts\cmextra\cmex7.tfm
 INPUT D:\MikTex\fonts\tfm\public\amsfonts\cmextra\cmex7.tfm
+INPUT D:\MikTex\tex\latex\amsfonts\umsa.fd
+INPUT D:\MikTex\tex\latex\amsfonts\umsa.fd
 INPUT D:\MikTex\fonts\tfm\public\amsfonts\symbols\msam10.tfm
 INPUT D:\MikTex\fonts\tfm\public\amsfonts\symbols\msam7.tfm
 INPUT D:\MikTex\fonts\tfm\public\amsfonts\symbols\msam5.tfm
+INPUT D:\MikTex\tex\latex\amsfonts\umsb.fd
+INPUT D:\MikTex\tex\latex\amsfonts\umsb.fd
 INPUT D:\MikTex\fonts\tfm\public\amsfonts\symbols\msbm10.tfm
 INPUT D:\MikTex\fonts\tfm\public\amsfonts\symbols\msbm7.tfm
 INPUT D:\MikTex\fonts\tfm\public\amsfonts\symbols\msbm5.tfm
@@ -240,12 +216,23 @@ INPUT D:\MikTex\fonts\tfm\public\amsfonts\symbols\msbm5.tfm
 INPUT D:\MikTex\fonts\tfm\public\amsfonts\symbols\msbm5.tfm
 INPUT D:\MikTex\fonts\tfm\adobe\times\ptmr8t.tfm
 INPUT D:\MikTex\fonts\tfm\adobe\times\ptmr8t.tfm
+INPUT D:\MikTex\fonts\tfm\public\amsfonts\cmextra\cmex7.tfm
+INPUT D:\MikTex\fonts\tfm\public\amsfonts\cmextra\cmex7.tfm
+INPUT D:\MikTex\fonts\tfm\public\amsfonts\symbols\msam10.tfm
+INPUT D:\MikTex\fonts\tfm\public\amsfonts\symbols\msam7.tfm
+INPUT D:\MikTex\fonts\tfm\public\amsfonts\symbols\msam5.tfm
+INPUT D:\MikTex\fonts\tfm\public\amsfonts\symbols\msbm10.tfm
+INPUT D:\MikTex\fonts\tfm\public\amsfonts\symbols\msbm7.tfm
+INPUT D:\MikTex\fonts\tfm\public\amsfonts\symbols\msbm5.tfm
 INPUT D:\MikTex\fonts\tfm\adobe\helvetic\phvb8t.tfm
 INPUT c:\Users\Admin\OneDrive - AUT University\PHD Journey\Papers\IEEE Access\access\logo.png
 INPUT c:\Users\Admin\OneDrive - AUT University\PHD Journey\Papers\IEEE Access\access\logo.png
 INPUT c:\Users\Admin\OneDrive - AUT University\PHD Journey\Papers\IEEE Access\access\logo.png
 INPUT c:\Users\Admin\OneDrive - AUT University\PHD Journey\Papers\IEEE Access\access\logo.png
 INPUT c:\Users\Admin\OneDrive - AUT University\PHD Journey\Papers\IEEE Access\access\logo.png
+INPUT D:\MikTex\fonts\tfm\adobe\helvetic\phvr8t.tfm
+INPUT D:\MikTex\fonts\vf\adobe\helvetic\phvr8t.vf
+INPUT D:\MikTex\fonts\tfm\adobe\helvetic\phvr8r.tfm
 INPUT D:\MikTex\fonts\vf\adobe\times\ptmri8t.vf
 INPUT D:\MikTex\fonts\tfm\adobe\times\ptmri8r.tfm
 INPUT D:\MikTex\fonts\vf\adobe\helvetic\phvb8t.vf
@@ -258,22 +245,24 @@ INPUT D:\MikTex\fonts\vf\adobe\times\ptmr8t.vf
 INPUT D:\MikTex\fonts\tfm\adobe\times\ptmr8r.tfm
 INPUT D:\MikTex\fonts\vf\adobe\times\ptmr8t.vf
 INPUT D:\MikTex\fonts\tfm\adobe\times\ptmr8r.tfm
-INPUT D:\MikTex\fonts\vf\adobe\times\ptmr8t.vf
-INPUT D:\MikTex\fonts\tfm\adobe\times\ptmr8r.tfm
 INPUT D:\MikTex\fonts\vf\adobe\helvetic\phvb8t.vf
 INPUT D:\MikTex\fonts\tfm\adobe\helvetic\phvb8r.tfm
 INPUT D:\MikTex\fonts\vf\adobe\times\ptmr8t.vf
 INPUT D:\MikTex\fonts\tfm\adobe\times\ptmr8r.tfm
 INPUT D:\MikTex\fonts\vf\adobe\helvetic\phvb8t.vf
 INPUT D:\MikTex\fonts\tfm\adobe\helvetic\phvb8r.tfm
+INPUT D:\MikTex\fonts\vf\adobe\helvetic\phvr8t.vf
+INPUT D:\MikTex\fonts\tfm\adobe\helvetic\phvr8r.tfm
 INPUT D:\MikTex\fonts\tfm\adobe\times\ptmb8t.tfm
+INPUT c:\Users\Admin\OneDrive - AUT University\PHD Journey\Papers\IEEE Access\access\notaglinelogo.png
+INPUT c:\Users\Admin\OneDrive - AUT University\PHD Journey\Papers\IEEE Access\access\notaglinelogo.png
+INPUT c:\Users\Admin\OneDrive - AUT University\PHD Journey\Papers\IEEE Access\access\notaglinelogo.png
 INPUT c:\Users\Admin\OneDrive - AUT University\PHD Journey\Papers\IEEE Access\access\notaglinelogo.png
 INPUT c:\Users\Admin\OneDrive - AUT University\PHD Journey\Papers\IEEE Access\access\notaglinelogo.png
 INPUT D:\MikTex\fonts\vf\adobe\times\ptmb8t.vf
 INPUT D:\MikTex\fonts\tfm\adobe\times\ptmb8r.tfm
 INPUT D:\MikTex\fonts\tfm\adobe\helvetic\phvbo8t.tfm
 INPUT D:\MikTex\fonts\tfm\adobe\times\ptmri8t.tfm
-INPUT D:\MikTex\fonts\tfm\adobe\times\ptmr8t.tfm
 INPUT c:\Users\Admin\OneDrive - AUT University\PHD Journey\Papers\IEEE Access\access\notaglinelogo.png
 INPUT c:\Users\Admin\OneDrive - AUT University\PHD Journey\Papers\IEEE Access\access\notaglinelogo.png
 INPUT D:\MikTex\fonts\vf\adobe\helvetic\phvbo8t.vf
@@ -302,6 +291,8 @@ INPUT c:\Users\Admin\OneDrive - AUT University\PHD Journey\Papers\IEEE Access\ac
 INPUT c:\Users\Admin\OneDrive - AUT University\PHD Journey\Papers\IEEE Access\access\notaglinelogo.png
 INPUT c:\Users\Admin\OneDrive - AUT University\PHD Journey\Papers\IEEE Access\access\notaglinelogo.png
 INPUT c:\Users\Admin\OneDrive - AUT University\PHD Journey\Papers\IEEE Access\access\notaglinelogo.png
+INPUT c:\Users\Admin\OneDrive - AUT University\PHD Journey\Papers\IEEE Access\access\notaglinelogo.png
+INPUT c:\Users\Admin\OneDrive - AUT University\PHD Journey\Papers\IEEE Access\access\notaglinelogo.png
 INPUT D:\MikTex\fonts\tfm\adobe\times\ptmr8t.tfm
 INPUT D:\MikTex\fonts\tfm\public\cm\cmr8.tfm
 INPUT D:\MikTex\fonts\tfm\public\cm\cmr6.tfm
@@ -316,6 +307,11 @@ INPUT D:\MikTex\fonts\tfm\public\amsfonts\symbols\msam7.tfm
 INPUT D:\MikTex\fonts\tfm\public\amsfonts\symbols\msbm10.tfm
 INPUT D:\MikTex\fonts\tfm\public\amsfonts\symbols\msbm7.tfm
 INPUT D:\MikTex\fonts\tfm\adobe\times\ptmb8t.tfm
+INPUT c:\Users\Admin\OneDrive - AUT University\PHD Journey\Papers\IEEE Access\access\wordcloud.png
+INPUT c:\Users\Admin\OneDrive - AUT University\PHD Journey\Papers\IEEE Access\access\wordcloud.png
+INPUT c:\Users\Admin\OneDrive - AUT University\PHD Journey\Papers\IEEE Access\access\wordcloud.png
+INPUT c:\Users\Admin\OneDrive - AUT University\PHD Journey\Papers\IEEE Access\access\wordcloud.png
+INPUT c:\Users\Admin\OneDrive - AUT University\PHD Journey\Papers\IEEE Access\access\wordcloud.png
 INPUT c:\Users\Admin\OneDrive - AUT University\PHD Journey\Papers\IEEE Access\access\notaglinelogo.png
 INPUT c:\Users\Admin\OneDrive - AUT University\PHD Journey\Papers\IEEE Access\access\notaglinelogo.png
 INPUT c:\Users\Admin\OneDrive - AUT University\PHD Journey\Papers\IEEE Access\access\notaglinelogo.png
@@ -324,13 +320,6 @@ INPUT D:\MikTex\fonts\vf\adobe\times\ptmb8t.vf
 INPUT D:\MikTex\fonts\tfm\adobe\times\ptmb8r.tfm
 INPUT D:\MikTex\fonts\vf\adobe\times\ptmr8t.vf
 INPUT D:\MikTex\fonts\tfm\adobe\times\ptmr8r.tfm
-INPUT c:\Users\Admin\OneDrive - AUT University\PHD Journey\Papers\IEEE Access\access\wordcloud.png
-INPUT c:\Users\Admin\OneDrive - AUT University\PHD Journey\Papers\IEEE Access\access\wordcloud.png
-INPUT c:\Users\Admin\OneDrive - AUT University\PHD Journey\Papers\IEEE Access\access\wordcloud.png
-INPUT c:\Users\Admin\OneDrive - AUT University\PHD Journey\Papers\IEEE Access\access\wordcloud.png
-INPUT c:\Users\Admin\OneDrive - AUT University\PHD Journey\Papers\IEEE Access\access\wordcloud.png
-INPUT c:\Users\Admin\OneDrive - AUT University\PHD Journey\Papers\IEEE Access\access\notaglinelogo.png
-INPUT c:\Users\Admin\OneDrive - AUT University\PHD Journey\Papers\IEEE Access\access\notaglinelogo.png
 INPUT c:\Users\Admin\OneDrive - AUT University\PHD Journey\Papers\IEEE Access\access\notaglinelogo.png
 INPUT c:\Users\Admin\OneDrive - AUT University\PHD Journey\Papers\IEEE Access\access\notaglinelogo.png
 INPUT c:\Users\Admin\OneDrive - AUT University\PHD Journey\Papers\IEEE Access\access\notaglinelogo.png
@@ -354,14 +343,21 @@ INPUT D:\MikTex\fonts\tfm\adobe\times\ptmr8c.tfm
 INPUT c:\Users\Admin\OneDrive - AUT University\PHD Journey\Papers\IEEE Access\access\notaglinelogo.png
 INPUT c:\Users\Admin\OneDrive - AUT University\PHD Journey\Papers\IEEE Access\access\notaglinelogo.png
 INPUT D:\MikTex\fonts\vf\adobe\times\ptmr8c.vf
-INPUT c:\Users\Admin\OneDrive - AUT University\PHD Journey\Papers\IEEE Access\access\a1.png
-INPUT c:\Users\Admin\OneDrive - AUT University\PHD Journey\Papers\IEEE Access\access\a1.png
-INPUT c:\Users\Admin\OneDrive - AUT University\PHD Journey\Papers\IEEE Access\access\a1.png
-INPUT c:\Users\Admin\OneDrive - AUT University\PHD Journey\Papers\IEEE Access\access\a1.png
-INPUT c:\Users\Admin\OneDrive - AUT University\PHD Journey\Papers\IEEE Access\access\a1.png
-INPUT c:\Users\Admin\OneDrive - AUT University\PHD Journey\Papers\IEEE Access\access\a1.png
-INPUT c:\Users\Admin\OneDrive - AUT University\PHD Journey\Papers\IEEE Access\access\a1.png
+INPUT c:\Users\Admin\OneDrive - AUT University\PHD Journey\Papers\IEEE Access\access\Biography\Pouya-Ataei.jpg
+INPUT c:\Users\Admin\OneDrive - AUT University\PHD Journey\Papers\IEEE Access\access\Biography\Pouya-Ataei.jpg
+INPUT c:\Users\Admin\OneDrive - AUT University\PHD Journey\Papers\IEEE Access\access\Biography\Pouya-Ataei.jpg
+INPUT c:\Users\Admin\OneDrive - AUT University\PHD Journey\Papers\IEEE Access\access\Biography\Pouya-Ataei.jpg
+INPUT c:\Users\Admin\OneDrive - AUT University\PHD Journey\Papers\IEEE Access\access\Biography\Pouya-Ataei.jpg
+INPUT c:\Users\Admin\OneDrive - AUT University\PHD Journey\Papers\IEEE Access\access\Biography\Pouya-Ataei.jpg
+INPUT c:\Users\Admin\OneDrive - AUT University\PHD Journey\Papers\IEEE Access\access\Biography\Pouya-Ataei.jpg
 INPUT D:\MikTex\fonts\tfm\adobe\helvetic\phvr8t.tfm
+INPUT c:\Users\Admin\OneDrive - AUT University\PHD Journey\Papers\IEEE Access\access\Biography\Alan-Litchfield.jpg
+INPUT c:\Users\Admin\OneDrive - AUT University\PHD Journey\Papers\IEEE Access\access\Biography\Alan-Litchfield.jpg
+INPUT c:\Users\Admin\OneDrive - AUT University\PHD Journey\Papers\IEEE Access\access\Biography\Alan-Litchfield.jpg
+INPUT c:\Users\Admin\OneDrive - AUT University\PHD Journey\Papers\IEEE Access\access\Biography\Alan-Litchfield.jpg
+INPUT c:\Users\Admin\OneDrive - AUT University\PHD Journey\Papers\IEEE Access\access\Biography\Alan-Litchfield.jpg
+INPUT c:\Users\Admin\OneDrive - AUT University\PHD Journey\Papers\IEEE Access\access\Biography\Alan-Litchfield.jpg
+INPUT c:\Users\Admin\OneDrive - AUT University\PHD Journey\Papers\IEEE Access\access\Biography\Alan-Litchfield.jpg
 INPUT c:\Users\Admin\OneDrive - AUT University\PHD Journey\Papers\IEEE Access\access\bullet.png
 INPUT c:\Users\Admin\OneDrive - AUT University\PHD Journey\Papers\IEEE Access\access\bullet.png
 INPUT c:\Users\Admin\OneDrive - AUT University\PHD Journey\Papers\IEEE Access\access\notaglinelogo.png
@@ -382,8 +378,6 @@ INPUT D:\MikTex\fonts\type1\urw\helvetic\uhvbo8a.pfb
 INPUT D:\MikTex\fonts\type1\urw\helvetic\uhvbo8a.pfb
 INPUT D:\MikTex\fonts\type1\urw\helvetic\uhvr8a.pfb
 INPUT D:\MikTex\fonts\type1\urw\helvetic\uhvr8a.pfb
-INPUT D:\MikTex\fonts\type1\urw\helvetic\uhvro8a.pfb
-INPUT D:\MikTex\fonts\type1\urw\helvetic\uhvro8a.pfb
 INPUT D:\MikTex\fonts\type1\urw\times\utmb8a.pfb
 INPUT D:\MikTex\fonts\type1\urw\times\utmb8a.pfb
 INPUT D:\MikTex\fonts\type1\urw\times\utmr8a.pfb

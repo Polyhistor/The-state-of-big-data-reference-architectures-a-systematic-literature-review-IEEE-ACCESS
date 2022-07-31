@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7440 64-bit) (preloaded format=pdflatex 2022.1.31)  31 JUL 2022 13:31
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7440 64-bit) (preloaded format=pdflatex 2022.1.31)  31 JUL 2022 14:37
 entering extended mode
 **"c:/Users/Admin/OneDrive - AUT University/PHD Journey/Papers/IEEE Access/access/access.tex"
 ("c:/Users/Admin/OneDrive - AUT University/PHD Journey/Papers/IEEE Access/access/access.tex"
@@ -445,46 +445,59 @@ LaTeX Info: Redefining \nameref on input line 14.
 \@outlinefile=\write3
 \openout3 = `access.out'.
 
-<bullet.png, id=101, 12.045pt x 35.38219pt>
+<bullet.png, id=104, 12.045pt x 35.38219pt>
 File: bullet.png Graphic file (type png)
 <use bullet.png>
-Package pdftex.def Info: bullet.png  used on input line 41.
+Package pdftex.def Info: bullet.png  used on input line 28.
 (pdftex.def)             Requested size: 5.0pt x 14.6871pt.
-LaTeX Font Info:    Trying to load font information for T1+phv on input line 41.
+LaTeX Font Info:    Trying to load font information for T1+phv on input line 28.
  (D:\MikTex\tex/latex/psnfss\t1phv.fd
 File: t1phv.fd 2020/03/25 scalable font definitions for T1/phv.
 )
 
 LaTeX Font Warning: Font shape `T1/phv/n/n' undefined
-(Font)              using `T1/phv/m/n' instead on input line 41.
+(Font)              using `T1/phv/m/n' instead on input line 28.
 
-LaTeX Font Info:    Trying to load font information for U+msa on input line 44.
+File: bullet.png Graphic file (type png)
+<use bullet.png>
+Package pdftex.def Info: bullet.png  used on input line 32.
+(pdftex.def)             Requested size: 5.0pt x 14.6871pt.
+LaTeX Font Info:    Calculating math sizes for size <9.9> on input line 39.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 39.
 (D:\MikTex\tex/latex/amsfonts\umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 44.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 39.
  (D:\MikTex\tex/latex/amsfonts\umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-File: bullet.png Graphic file (type png)
-<use bullet.png>
-Package pdftex.def Info: bullet.png  used on input line 64.
-(pdftex.def)             Requested size: 5.0pt x 14.6871pt.
+LaTeX Font Info:    Calculating math sizes for size <6.6> on input line 39.
 
-Underfull \hbox (badness 7685) in paragraph at lines 64--69
-[]\T1/phv/b/n/10 INDEX TERMS[]  \T1/ptm/n/n/10 En-ter key words or phrases in al-pha-bet-i-cal or-der, sep-a-rated by com-
+Overfull \hbox (9.2679pt too wide) in paragraph at lines 39--39
+[]  
  []
 
 
-Underfull \hbox (badness 4001) in paragraph at lines 64--69
-\T1/ptm/n/n/10 mas. For a list of sug-gested key-words, send a blank e-mail to key-words@ieee.org or visit
+Overfull \hbox (9.2679pt too wide) in paragraph at lines 39--39
+[]  
  []
 
-<notaglinelogo.png, id=102, 169.38281pt x 42.91031pt>
-File: notaglinelogo.png Graphic file (type png)
-<use notaglinelogo.png>
-Package pdftex.def Info: notaglinelogo.png  used on input line 74.
-(pdftex.def)             Requested size: 91.32pt x 23.1352pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+<logo.png, id=112, 206.27063pt x 53.44969pt>
+File: logo.png Graphic file (type png)
+<use logo.png>
+Package pdftex.def Info: logo.png  used on input line 49.
+(pdftex.def)             Requested size: 91.32pt x 23.66309pt.
+
+Overfull \hbox (505.12177pt too wide) has occurred while \output is active
+[]
+ []
+
 
 Overfull \hbox (505.12177pt too wide) has occurred while \output is active
 []
@@ -503,35 +516,12 @@ Underfull \hbox (badness 10000) has occurred while \output is active
 [1
 
 
- <c:/Users/Admin/OneDrive - AUT University/PHD Journey/Papers/IEEE Access/access/notaglinelogo.png>]
-LaTeX Font Info:    Calculating math sizes for size <9.9> on input line 74.
-LaTeX Font Info:    Calculating math sizes for size <6.6> on input line 74.
-
-Overfull \hbox (9.2679pt too wide) in paragraph at lines 74--74
-[]  
- []
-
-
-Overfull \hbox (9.2679pt too wide) in paragraph at lines 74--74
-[]  
- []
-
-
-Underfull \vbox (badness 5756) has occurred while \output is active []
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-<logo.png, id=119, 206.27063pt x 53.44969pt>
-File: logo.png Graphic file (type png)
-<use logo.png>
-Package pdftex.def Info: logo.png  used on input line 86.
-(pdftex.def)             Requested size: 91.32pt x 23.66309pt.
-
-Overfull \hbox (505.12177pt too wide) has occurred while \output is active
-[][]
- []
-
+ <c:/Users/Admin/OneDrive - AUT University/PHD Journey/Papers/IEEE Access/access/logo.png> <c:/Users/Admin/OneDrive - AUT University/PHD Journey/Papers/IEEE Access/access/bullet.png>]
+<notaglinelogo.png, id=144, 169.38281pt x 42.91031pt>
+File: notaglinelogo.png Graphic file (type png)
+<use notaglinelogo.png>
+Package pdftex.def Info: notaglinelogo.png  used on input line 92.
+(pdftex.def)             Requested size: 91.32pt x 23.1352pt.
 
 Overfull \hbox (505.12177pt too wide) has occurred while \output is active
 []
@@ -547,12 +537,14 @@ Underfull \hbox (badness 10000) has occurred while \output is active
 []
  []
 
-[2
+[2 <c:/Users/Admin/OneDrive - AUT University/PHD Journey/Papers/IEEE Access/access/notaglinelogo.png>]
+Underfull \hbox (badness 1960) in paragraph at lines 108--109
+[]\T1/ptm/n/n/10 ("Document Ti-tle":big data) AND ("Doc-u-ment Ti-
+ []
 
- <c:/Users/Admin/OneDrive - AUT University/PHD Journey/Papers/IEEE Access/access/logo.png> <c:/Users/Admin/OneDrive - AUT University/PHD Journey/Papers/IEEE Access/access/bullet.png>]
 File: notaglinelogo.png Graphic file (type png)
 <use notaglinelogo.png>
-Package pdftex.def Info: notaglinelogo.png  used on input line 127.
+Package pdftex.def Info: notaglinelogo.png  used on input line 120.
 (pdftex.def)             Requested size: 91.32pt x 23.1352pt.
 
 Overfull \hbox (505.12177pt too wide) has occurred while \output is active
@@ -570,13 +562,9 @@ Underfull \hbox (badness 10000) has occurred while \output is active
  []
 
 [3]
-Underfull \hbox (badness 1960) in paragraph at lines 143--144
-[]\T1/ptm/n/n/10 ("Document Ti-tle":big data) AND ("Doc-u-ment Ti-
- []
-
 File: notaglinelogo.png Graphic file (type png)
 <use notaglinelogo.png>
-Package pdftex.def Info: notaglinelogo.png  used on input line 156.
+Package pdftex.def Info: notaglinelogo.png  used on input line 174.
 (pdftex.def)             Requested size: 91.32pt x 23.1352pt.
 
 Overfull \hbox (505.12177pt too wide) has occurred while \output is active
@@ -594,9 +582,31 @@ Underfull \hbox (badness 10000) has occurred while \output is active
  []
 
 [4]
+
+pdfTeX warning: pdflatex (file c:/Users/Admin/OneDrive - AUT University/PHD Journey/Papers/IEEE Access/access/PRISMA/PRISMA_Flow_Diagram-2.pdf): PDF inclusion: found PDF version <1.6>, but at most version <1.5> allowed
+<PRISMA/PRISMA_Flow_Diagram-2.pdf, id=213, 845.07718pt x 597.55246pt>
+File: PRISMA/PRISMA_Flow_Diagram-2.pdf Graphic file (type pdf)
+<use PRISMA/PRISMA_Flow_Diagram-2.pdf>
+Package pdftex.def Info: PRISMA/PRISMA_Flow_Diagram-2.pdf  used on input line 183.
+(pdftex.def)             Requested size: 512.1496pt x 362.14493pt.
+
+Overfull \hbox (7.02783pt too wide) in paragraph at lines 183--184
+[][] 
+ []
+
+<Media/databases-statitistic-[Recovered].png, id=215, 1505.625pt x 1001.7425pt>
+File: Media/databases-statitistic-[Recovered].png Graphic file (type png)
+<use Media/databases-statitistic-[Recovered].png>
+Package pdftex.def Info: Media/databases-statitistic-[Recovered].png  used on input line 192.
+(pdftex.def)             Requested size: 512.1496pt x 340.75607pt.
+
+Overfull \hbox (7.02783pt too wide) in paragraph at lines 192--193
+[][] 
+ []
+
 File: notaglinelogo.png Graphic file (type png)
 <use notaglinelogo.png>
-Package pdftex.def Info: notaglinelogo.png  used on input line 211.
+Package pdftex.def Info: notaglinelogo.png  used on input line 228.
 (pdftex.def)             Requested size: 91.32pt x 23.1352pt.
 
 Overfull \hbox (505.12177pt too wide) has occurred while \output is active
@@ -614,31 +624,9 @@ Underfull \hbox (badness 10000) has occurred while \output is active
  []
 
 [5]
-
-pdfTeX warning: pdflatex (file c:/Users/Admin/OneDrive - AUT University/PHD Journey/Papers/IEEE Access/access/PRISMA/PRISMA_Flow_Diagram-2.pdf): PDF inclusion: found PDF version <1.6>, but at most version <1.5> allowed
-<PRISMA/PRISMA_Flow_Diagram-2.pdf, id=215, 845.07718pt x 597.55246pt>
-File: PRISMA/PRISMA_Flow_Diagram-2.pdf Graphic file (type pdf)
-<use PRISMA/PRISMA_Flow_Diagram-2.pdf>
-Package pdftex.def Info: PRISMA/PRISMA_Flow_Diagram-2.pdf  used on input line 218.
-(pdftex.def)             Requested size: 512.1496pt x 362.14493pt.
-
-Overfull \hbox (7.02783pt too wide) in paragraph at lines 218--219
-[][] 
- []
-
-<Media/databases-statitistic-[Recovered].png, id=217, 1505.625pt x 1001.7425pt>
-File: Media/databases-statitistic-[Recovered].png Graphic file (type png)
-<use Media/databases-statitistic-[Recovered].png>
-Package pdftex.def Info: Media/databases-statitistic-[Recovered].png  used on input line 227.
-(pdftex.def)             Requested size: 512.1496pt x 340.75607pt.
-
-Overfull \hbox (7.02783pt too wide) in paragraph at lines 227--228
-[][] 
- []
-
 File: notaglinelogo.png Graphic file (type png)
 <use notaglinelogo.png>
-Package pdftex.def Info: notaglinelogo.png  used on input line 264.
+Package pdftex.def Info: notaglinelogo.png  used on input line 241.
 (pdftex.def)             Requested size: 91.32pt x 23.1352pt.
 
 Overfull \hbox (505.12177pt too wide) has occurred while \output is active
@@ -655,29 +643,7 @@ Underfull \hbox (badness 10000) has occurred while \output is active
 []
  []
 
-[6]
-Underfull \vbox (badness 2134) has occurred while \output is active []
-
-File: notaglinelogo.png Graphic file (type png)
-<use notaglinelogo.png>
-Package pdftex.def Info: notaglinelogo.png  used on input line 277.
-(pdftex.def)             Requested size: 91.32pt x 23.1352pt.
-
-Overfull \hbox (505.12177pt too wide) has occurred while \output is active
-[]
- []
-
-
-Overfull \hbox (505.12177pt too wide) has occurred while \output is active
-[]
- []
-
-
-Underfull \hbox (badness 10000) has occurred while \output is active
-[]
- []
-
-[7 <c:/Users/Admin/OneDrive - AUT University/PHD Journey/Papers/IEEE Access/access/PRISMA/PRISMA_Flow_Diagram-2.pdf>]
+[6 <c:/Users/Admin/OneDrive - AUT University/PHD Journey/Papers/IEEE Access/access/PRISMA/PRISMA_Flow_Diagram-2.pdf>]
 Underfull \vbox (badness 5939) has occurred while \output is active []
 
 
@@ -685,7 +651,7 @@ Underfull \vbox (badness 2837) has occurred while \output is active []
 
 File: notaglinelogo.png Graphic file (type png)
 <use notaglinelogo.png>
-Package pdftex.def Info: notaglinelogo.png  used on input line 289.
+Package pdftex.def Info: notaglinelogo.png  used on input line 253.
 (pdftex.def)             Requested size: 91.32pt x 23.1352pt.
 
 Overfull \hbox (505.12177pt too wide) has occurred while \output is active
@@ -702,10 +668,32 @@ Underfull \hbox (badness 10000) has occurred while \output is active
 []
  []
 
-[8 <c:/Users/Admin/OneDrive - AUT University/PHD Journey/Papers/IEEE Access/access/Media/databases-statitistic-[Recovered].png (PNG copy)>]
+[7 <c:/Users/Admin/OneDrive - AUT University/PHD Journey/Papers/IEEE Access/access/Media/databases-statitistic-[Recovered].png (PNG copy)>]
+Underfull \vbox (badness 6526) has occurred while \output is active []
+
 File: notaglinelogo.png Graphic file (type png)
 <use notaglinelogo.png>
-Package pdftex.def Info: notaglinelogo.png  used on input line 322.
+Package pdftex.def Info: notaglinelogo.png  used on input line 287.
+(pdftex.def)             Requested size: 91.32pt x 23.1352pt.
+
+Overfull \hbox (505.12177pt too wide) has occurred while \output is active
+[]
+ []
+
+
+Overfull \hbox (505.12177pt too wide) has occurred while \output is active
+[]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[8]
+File: notaglinelogo.png Graphic file (type png)
+<use notaglinelogo.png>
+Package pdftex.def Info: notaglinelogo.png  used on input line 315.
 (pdftex.def)             Requested size: 91.32pt x 23.1352pt.
 
 Overfull \hbox (505.12177pt too wide) has occurred while \output is active
@@ -723,128 +711,146 @@ Underfull \hbox (badness 10000) has occurred while \output is active
  []
 
 [9]
-Overfull \hbox (2.65352pt too wide) in paragraph at lines 358--359
+Overfull \hbox (2.65352pt too wide) in paragraph at lines 323--324
 []\T1/ptm/b/n/8 Year| 
  []
 
 
-Overfull \hbox (1.77364pt too wide) in paragraph at lines 360--361
+Overfull \hbox (1.77364pt too wide) in paragraph at lines 325--326
 []\T1/ptm/m/n/8 2011| 
  []
 
 
-Overfull \hbox (1.77364pt too wide) in paragraph at lines 362--363
+Overfull \hbox (1.77364pt too wide) in paragraph at lines 327--328
 []\T1/ptm/m/n/8 2013| 
  []
 
 
-Overfull \hbox (1.77364pt too wide) in paragraph at lines 364--365
+Overfull \hbox (1.77364pt too wide) in paragraph at lines 329--330
 []\T1/ptm/m/n/8 2013| 
  []
 
 
-Overfull \hbox (1.77364pt too wide) in paragraph at lines 366--367
+Overfull \hbox (1.77364pt too wide) in paragraph at lines 331--332
 []\T1/ptm/m/n/8 2014| 
  []
 
 
-Overfull \hbox (1.77364pt too wide) in paragraph at lines 368--369
+Overfull \hbox (1.77364pt too wide) in paragraph at lines 333--334
 []\T1/ptm/m/n/8 2013| 
  []
 
 
-Overfull \hbox (1.77364pt too wide) in paragraph at lines 370--371
+Overfull \hbox (1.77364pt too wide) in paragraph at lines 335--336
 []\T1/ptm/m/n/8 2013| 
  []
 
 
-Overfull \hbox (1.77364pt too wide) in paragraph at lines 372--373
+Overfull \hbox (1.77364pt too wide) in paragraph at lines 337--338
 []\T1/ptm/m/n/8 2014| 
  []
 
 
-Overfull \hbox (1.77364pt too wide) in paragraph at lines 374--375
+Overfull \hbox (1.77364pt too wide) in paragraph at lines 339--340
 []\T1/ptm/m/n/8 2014| 
  []
 
 
-Overfull \hbox (1.77364pt too wide) in paragraph at lines 376--377
+Overfull \hbox (1.77364pt too wide) in paragraph at lines 341--342
 []\T1/ptm/m/n/8 2014| 
  []
 
 
-Overfull \hbox (1.77364pt too wide) in paragraph at lines 378--379
+Overfull \hbox (1.77364pt too wide) in paragraph at lines 343--344
 []\T1/ptm/m/n/8 2015| 
  []
 
 
-Overfull \hbox (1.77364pt too wide) in paragraph at lines 380--381
+Overfull \hbox (1.77364pt too wide) in paragraph at lines 345--346
 []\T1/ptm/m/n/8 2016| 
  []
 
 
-Overfull \hbox (1.77364pt too wide) in paragraph at lines 382--383
+Overfull \hbox (1.77364pt too wide) in paragraph at lines 347--348
 []\T1/ptm/m/n/8 2016| 
  []
 
 
-Overfull \hbox (1.77364pt too wide) in paragraph at lines 384--385
+Overfull \hbox (1.77364pt too wide) in paragraph at lines 349--350
 []\T1/ptm/m/n/8 2016| 
  []
 
 
-Overfull \hbox (1.77364pt too wide) in paragraph at lines 386--387
+Overfull \hbox (1.77364pt too wide) in paragraph at lines 351--352
 []\T1/ptm/m/n/8 2017| 
  []
 
 
-Overfull \hbox (1.77364pt too wide) in paragraph at lines 388--389
+Overfull \hbox (1.77364pt too wide) in paragraph at lines 353--354
 []\T1/ptm/m/n/8 2017| 
  []
 
 
-Overfull \hbox (1.77364pt too wide) in paragraph at lines 390--391
+Overfull \hbox (1.77364pt too wide) in paragraph at lines 355--356
 []\T1/ptm/m/n/8 2017| 
  []
 
 
-Overfull \hbox (1.77364pt too wide) in paragraph at lines 392--393
+Overfull \hbox (1.77364pt too wide) in paragraph at lines 357--358
 []\T1/ptm/m/n/8 2018| 
  []
 
 
-Overfull \hbox (1.77364pt too wide) in paragraph at lines 394--395
+Overfull \hbox (1.77364pt too wide) in paragraph at lines 359--360
 []\T1/ptm/m/n/8 2020| 
  []
 
 
-Overfull \hbox (1.77364pt too wide) in paragraph at lines 396--397
+Overfull \hbox (1.77364pt too wide) in paragraph at lines 361--362
 []\T1/ptm/m/n/8 2020| 
  []
 
 
-Overfull \hbox (1.77364pt too wide) in paragraph at lines 398--399
+Overfull \hbox (1.77364pt too wide) in paragraph at lines 363--364
 []\T1/ptm/m/n/8 2020| 
  []
 
 
-Overfull \hbox (1.77364pt too wide) in paragraph at lines 400--401
+Overfull \hbox (1.77364pt too wide) in paragraph at lines 365--366
 []\T1/ptm/m/n/8 2021| 
  []
 
 
-Overfull \hbox (1.77364pt too wide) in paragraph at lines 402--403
+Overfull \hbox (1.77364pt too wide) in paragraph at lines 367--368
 []\T1/ptm/m/n/8 2021| 
  []
 
 
-Overfull \hbox (9.50322pt too wide) in paragraph at lines 356--405
+Overfull \hbox (9.50322pt too wide) in paragraph at lines 321--370
 [][] 
  []
 
+
+Overfull \hbox (2.57506pt too wide) in paragraph at lines 400--449
+[][] 
+ []
+
+<wordcloud.png, id=415, 1445.4pt x 763.85374pt>
+File: wordcloud.png Graphic file (type png)
+<use wordcloud.png>
+Package pdftex.def Info: wordcloud.png  used on input line 456.
+(pdftex.def)             Requested size: 512.1496pt x 270.6513pt.
+
+Overfull \hbox (7.02783pt too wide) in paragraph at lines 456--457
+[][] 
+ []
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
 File: notaglinelogo.png Graphic file (type png)
 <use notaglinelogo.png>
-Package pdftex.def Info: notaglinelogo.png  used on input line 408.
+Package pdftex.def Info: notaglinelogo.png  used on input line 468.
 (pdftex.def)             Requested size: 91.32pt x 23.1352pt.
 
 Overfull \hbox (505.12177pt too wide) has occurred while \output is active
@@ -864,7 +870,7 @@ Underfull \hbox (badness 10000) has occurred while \output is active
 [10]
 File: notaglinelogo.png Graphic file (type png)
 <use notaglinelogo.png>
-Package pdftex.def Info: notaglinelogo.png  used on input line 420.
+Package pdftex.def Info: notaglinelogo.png  used on input line 481.
 (pdftex.def)             Requested size: 91.32pt x 23.1352pt.
 
 Overfull \hbox (505.12177pt too wide) has occurred while \output is active
@@ -882,26 +888,9 @@ Underfull \hbox (badness 10000) has occurred while \output is active
  []
 
 [11]
-Overfull \hbox (2.57506pt too wide) in paragraph at lines 435--484
-[][] 
- []
-
-<wordcloud.png, id=443, 1445.4pt x 763.85374pt>
-File: wordcloud.png Graphic file (type png)
-<use wordcloud.png>
-Package pdftex.def Info: wordcloud.png  used on input line 491.
-(pdftex.def)             Requested size: 512.1496pt x 270.6513pt.
-
-Overfull \hbox (7.02783pt too wide) in paragraph at lines 491--492
-[][] 
- []
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
 File: notaglinelogo.png Graphic file (type png)
 <use notaglinelogo.png>
-Package pdftex.def Info: notaglinelogo.png  used on input line 517.
+Package pdftex.def Info: notaglinelogo.png  used on input line 495.
 (pdftex.def)             Requested size: 91.32pt x 23.1352pt.
 
 Overfull \hbox (505.12177pt too wide) has occurred while \output is active
@@ -919,33 +908,11 @@ Underfull \hbox (badness 10000) has occurred while \output is active
  []
 
 [12]
-Underfull \vbox (badness 2662) has occurred while \output is active []
-
-File: notaglinelogo.png Graphic file (type png)
-<use notaglinelogo.png>
-Package pdftex.def Info: notaglinelogo.png  used on input line 531.
-(pdftex.def)             Requested size: 91.32pt x 23.1352pt.
-
-Overfull \hbox (505.12177pt too wide) has occurred while \output is active
-[]
- []
-
-
-Overfull \hbox (505.12177pt too wide) has occurred while \output is active
-[]
- []
-
-
-Underfull \hbox (badness 10000) has occurred while \output is active
-[]
- []
-
-[13]
 Underfull \vbox (badness 1383) has occurred while \output is active []
 
 File: notaglinelogo.png Graphic file (type png)
 <use notaglinelogo.png>
-Package pdftex.def Info: notaglinelogo.png  used on input line 549.
+Package pdftex.def Info: notaglinelogo.png  used on input line 514.
 (pdftex.def)             Requested size: 91.32pt x 23.1352pt.
 
 Overfull \hbox (505.12177pt too wide) has occurred while \output is active
@@ -962,89 +929,109 @@ Underfull \hbox (badness 10000) has occurred while \output is active
 []
  []
 
-[14 <c:/Users/Admin/OneDrive - AUT University/PHD Journey/Papers/IEEE Access/access/wordcloud.png>]
-Overfull \hbox (2.576pt too wide) in paragraph at lines 567--567
+[13 <c:/Users/Admin/OneDrive - AUT University/PHD Journey/Papers/IEEE Access/access/wordcloud.png>]
+Overfull \hbox (2.576pt too wide) in paragraph at lines 532--532
 []\T1/ptm/m/n/8 RA| 
  []
 
 
-Overfull \hbox (3.91205pt too wide) in paragraph at lines 587--587
+Overfull \hbox (3.91205pt too wide) in paragraph at lines 552--552
 []\T1/ptm/m/n/8 S10| 
  []
 
 
-Overfull \hbox (3.91205pt too wide) in paragraph at lines 589--589
+Overfull \hbox (3.91205pt too wide) in paragraph at lines 554--554
 []\T1/ptm/m/n/8 S11| 
  []
 
 
-Overfull \hbox (3.91205pt too wide) in paragraph at lines 591--591
+Overfull \hbox (3.91205pt too wide) in paragraph at lines 556--556
 []\T1/ptm/m/n/8 S12| 
  []
 
 
-Overfull \hbox (3.91205pt too wide) in paragraph at lines 593--593
+Overfull \hbox (3.91205pt too wide) in paragraph at lines 558--558
 []\T1/ptm/m/n/8 S13| 
  []
 
 
-Overfull \hbox (3.91205pt too wide) in paragraph at lines 595--595
+Overfull \hbox (3.91205pt too wide) in paragraph at lines 560--560
 []\T1/ptm/m/n/8 S14| 
  []
 
 
-Overfull \hbox (3.91205pt too wide) in paragraph at lines 597--597
+Overfull \hbox (3.91205pt too wide) in paragraph at lines 562--562
 []\T1/ptm/m/n/8 S15| 
  []
 
 
-Overfull \hbox (3.91205pt too wide) in paragraph at lines 599--599
+Overfull \hbox (3.91205pt too wide) in paragraph at lines 564--564
 []\T1/ptm/m/n/8 S16| 
  []
 
 
-Overfull \hbox (3.91205pt too wide) in paragraph at lines 601--601
+Overfull \hbox (3.91205pt too wide) in paragraph at lines 566--566
 []\T1/ptm/m/n/8 S17| 
  []
 
 
-Overfull \hbox (3.91205pt too wide) in paragraph at lines 603--603
+Overfull \hbox (3.91205pt too wide) in paragraph at lines 568--568
 []\T1/ptm/m/n/8 S18| 
  []
 
 
-Overfull \hbox (3.91205pt too wide) in paragraph at lines 605--605
+Overfull \hbox (3.91205pt too wide) in paragraph at lines 570--570
 []\T1/ptm/m/n/8 S19| 
  []
 
 
-Overfull \hbox (5.42052pt too wide) in paragraph at lines 565--608
+Overfull \hbox (5.42052pt too wide) in paragraph at lines 530--573
 [][] 
  []
 
 
-Overfull \hbox (3.91205pt too wide) in paragraph at lines 614--614
+Overfull \hbox (3.91205pt too wide) in paragraph at lines 579--579
 []\T1/ptm/m/n/8 S20| 
  []
 
 
-Overfull \hbox (3.91205pt too wide) in paragraph at lines 616--616
+Overfull \hbox (3.91205pt too wide) in paragraph at lines 581--581
 []\T1/ptm/m/n/8 S21| 
  []
 
 
-Overfull \hbox (3.91205pt too wide) in paragraph at lines 618--618
+Overfull \hbox (3.91205pt too wide) in paragraph at lines 583--583
 []\T1/ptm/m/n/8 S22| 
  []
 
 
-Overfull \hbox (5.42052pt too wide) in paragraph at lines 612--621
+Overfull \hbox (5.42052pt too wide) in paragraph at lines 577--586
 [][] 
  []
 
 File: notaglinelogo.png Graphic file (type png)
 <use notaglinelogo.png>
-Package pdftex.def Info: notaglinelogo.png  used on input line 658.
+Package pdftex.def Info: notaglinelogo.png  used on input line 622.
+(pdftex.def)             Requested size: 91.32pt x 23.1352pt.
+
+Overfull \hbox (505.12177pt too wide) has occurred while \output is active
+[]
+ []
+
+
+Overfull \hbox (505.12177pt too wide) has occurred while \output is active
+[]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[14]
+File: notaglinelogo.png Graphic file (type png)
+<use notaglinelogo.png>
+Package pdftex.def Info: notaglinelogo.png  used on input line 622.
 (pdftex.def)             Requested size: 91.32pt x 23.1352pt.
 
 Overfull \hbox (505.12177pt too wide) has occurred while \output is active
@@ -1062,33 +1049,13 @@ Underfull \hbox (badness 10000) has occurred while \output is active
  []
 
 [15]
-File: notaglinelogo.png Graphic file (type png)
-<use notaglinelogo.png>
-Package pdftex.def Info: notaglinelogo.png  used on input line 658.
-(pdftex.def)             Requested size: 91.32pt x 23.1352pt.
-
-Overfull \hbox (505.12177pt too wide) has occurred while \output is active
-[]
- []
-
-
-Overfull \hbox (505.12177pt too wide) has occurred while \output is active
-[]
- []
-
-
-Underfull \hbox (badness 10000) has occurred while \output is active
-[]
- []
-
-[16]
-Underfull \hbox (badness 2229) in paragraph at lines 670--671
+Underfull \hbox (badness 2229) in paragraph at lines 635--636
 []\T1/ptm/n/n/10 The clos-est study we could find to com-par-ing and
  []
 
 File: notaglinelogo.png Graphic file (type png)
 <use notaglinelogo.png>
-Package pdftex.def Info: notaglinelogo.png  used on input line 687.
+Package pdftex.def Info: notaglinelogo.png  used on input line 650.
 (pdftex.def)             Requested size: 91.32pt x 23.1352pt.
 
 Overfull \hbox (505.12177pt too wide) has occurred while \output is active
@@ -1105,14 +1072,14 @@ Underfull \hbox (badness 10000) has occurred while \output is active
 []
  []
 
-[17] ("c:/Users\Admin\OneDrive - AUT University\PHD Journey\Papers\IEEE Access\access\access.bbl"
+[16] ("c:/Users\Admin\OneDrive - AUT University\PHD Journey\Papers\IEEE Access\access\access.bbl"
 
 LaTeX Font Warning: Font shape `T1/ptm/n/it' undefined
 (Font)              using `T1/ptm/n/n' instead on input line 6.
 
 File: notaglinelogo.png Graphic file (type png)
 <use notaglinelogo.png>
-Package pdftex.def Info: notaglinelogo.png  used on input line 135.
+Package pdftex.def Info: notaglinelogo.png  used on input line 128.
 (pdftex.def)             Requested size: 91.32pt x 23.1352pt.
 
 Overfull \hbox (505.12177pt too wide) has occurred while \output is active
@@ -1129,7 +1096,7 @@ Underfull \hbox (badness 10000) has occurred while \output is active
 []
  []
 
-[18]
+[17]
 Underfull \hbox (badness 10000) in paragraph at lines 324--326
 []\T1/ptm/m/n/7.61 IEEE In-ter-na-tional Or-ga-ni-za-tion for Stan-dard-iza-tion (ISO/IEC).
  []
@@ -1145,7 +1112,7 @@ LaTeX Font Warning: Font shape `TS1/ptm/n/n' undefined
 
 File: notaglinelogo.png Graphic file (type png)
 <use notaglinelogo.png>
-Package pdftex.def Info: notaglinelogo.png  used on input line 425.
+Package pdftex.def Info: notaglinelogo.png  used on input line 412.
 (pdftex.def)             Requested size: 91.32pt x 23.1352pt.
 
 Overfull \hbox (505.12177pt too wide) has occurred while \output is active
@@ -1162,28 +1129,37 @@ Underfull \hbox (badness 10000) has occurred while \output is active
 []
  []
 
-[19])
+[18])
 
 Package hyperref Warning: The anchor of a bookmark and its parent's must not
-(hyperref)                be the same. Added a new anchor on input line 710.
+(hyperref)                be the same. Added a new anchor on input line 675.
 
-<a1.png, id=500, 72.27pt x 90.3375pt>
-File: a1.png Graphic file (type png)
-<use a1.png>
-Package pdftex.def Info: a1.png  used on input line 710.
-(pdftex.def)             Requested size: 72.2709pt x 90.33864pt.
-File: a1.png Graphic file (type png)
-<use a1.png>
-Package pdftex.def Info: a1.png  used on input line 710.
-(pdftex.def)             Requested size: 72.2709pt x 90.33864pt.
+<Biography/Pouya-Ataei.jpg, id=497, 301.125pt x 376.40625pt>
+File: Biography/Pouya-Ataei.jpg Graphic file (type jpg)
+<use Biography/Pouya-Ataei.jpg>
+Package pdftex.def Info: Biography/Pouya-Ataei.jpg  used on input line 675.
+(pdftex.def)             Requested size: 72.26688pt x 90.33359pt.
+File: Biography/Pouya-Ataei.jpg Graphic file (type jpg)
+<use Biography/Pouya-Ataei.jpg>
+Package pdftex.def Info: Biography/Pouya-Ataei.jpg  used on input line 675.
+(pdftex.def)             Requested size: 72.26688pt x 90.33359pt.
+<Biography/Alan-Litchfield.jpg, id=500, 411.5375pt x 513.92pt>
+File: Biography/Alan-Litchfield.jpg Graphic file (type jpg)
+<use Biography/Alan-Litchfield.jpg>
+Package pdftex.def Info: Biography/Alan-Litchfield.jpg  used on input line 677.
+(pdftex.def)             Requested size: 72.26505pt x 90.24316pt.
+File: Biography/Alan-Litchfield.jpg Graphic file (type jpg)
+<use Biography/Alan-Litchfield.jpg>
+Package pdftex.def Info: Biography/Alan-Litchfield.jpg  used on input line 677.
+(pdftex.def)             Requested size: 72.26505pt x 90.24316pt.
 File: bullet.png Graphic file (type png)
 <use bullet.png>
-Package pdftex.def Info: bullet.png  used on input line 736.
+Package pdftex.def Info: bullet.png  used on input line 680.
 (pdftex.def)             Requested size: 5.0pt x 14.6871pt.
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 738.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 682.
 File: notaglinelogo.png Graphic file (type png)
 <use notaglinelogo.png>
-Package pdftex.def Info: notaglinelogo.png  used on input line 738.
+Package pdftex.def Info: notaglinelogo.png  used on input line 682.
 (pdftex.def)             Requested size: 91.32pt x 23.1352pt.
 
 Overfull \hbox (505.12177pt too wide) has occurred while \output is active
@@ -1200,33 +1176,33 @@ Underfull \hbox (badness 10000) has occurred while \output is active
 []
  []
 
-[20 <c:/Users/Admin/OneDrive - AUT University/PHD Journey/Papers/IEEE Access/access/a1.png>]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 738.
+[19 <c:/Users/Admin/OneDrive - AUT University/PHD Journey/Papers/IEEE Access/access/Biography/Pouya-Ataei.jpg> <c:/Users/Admin/OneDrive - AUT University/PHD Journey/Papers/IEEE Access/access/Biography/Alan-Litchfield.jpg>]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 682.
  ("c:/Users\Admin\OneDrive - AUT University\PHD Journey\Papers\IEEE Access\access\access.aux")
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 738.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 738.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 682.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 682.
 Package rerunfilecheck Info: File `access.out' has not changed.
-(rerunfilecheck)             Checksum: 76F65C403F3EDE076E5B8FED98197D1D;1636.
+(rerunfilecheck)             Checksum: 9E889E9F3F73773ADF5DF22FA79FE2D5;1694.
 
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 738.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 682.
  ) 
 Here is how much of TeX's memory you used:
- 8692 strings out of 480795
- 129288 string characters out of 2913777
- 417029 words of memory out of 3000000
- 24305 multiletter control sequences out of 15000+200000
- 628682 words of font info for 150 fonts, out of 3000000 for 9000
+ 8689 strings out of 480795
+ 129496 string characters out of 2913777
+ 425029 words of memory out of 3000000
+ 24304 multiletter control sequences out of 15000+200000
+ 620222 words of font info for 144 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 38i,13n,53p,1018b,527s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 38i,13n,53p,1833b,528s stack positions out of 5000i,500n,10000p,200000b,50000s
 pdfTeX warning (dest): name{section*.1} has been referenced but does not exist, replaced by a fixed one
 
-{D:/MikTex/fonts/enc/dvips/base/8r.enc}<D:/MikTex/fonts/type1/public/amsfonts/cm/cmmi10.pfb><D:/MikTex/fonts/type1/public/amsfonts/cm/cmsy7.pfb><D:/MikTex/fonts/type1/urw/helvetic/uhvb8a.pfb><D:/MikTex/fonts/type1/urw/helvetic/uhvbo8a.pfb><D:/MikTex/fonts/type1/urw/helvetic/uhvr8a.pfb><D:/MikTex/fonts/type1/urw/helvetic/uhvro8a.pfb><D:/MikTex/fonts/type1/urw/times/utmb8a.pfb><D:/MikTex/fonts/type1/urw/times/utmr8a.pfb><D:/MikTex/fonts/type1/urw/times/utmri8a.pfb>
-Output written on "c:/Users\Admin\OneDrive - AUT University\PHD Journey\Papers\IEEE Access\access\access.pdf" (20 pages, 841516 bytes).
+{D:/MikTex/fonts/enc/dvips/base/8r.enc}<D:/MikTex/fonts/type1/public/amsfonts/cm/cmmi10.pfb><D:/MikTex/fonts/type1/public/amsfonts/cm/cmsy7.pfb><D:/MikTex/fonts/type1/urw/helvetic/uhvb8a.pfb><D:/MikTex/fonts/type1/urw/helvetic/uhvbo8a.pfb><D:/MikTex/fonts/type1/urw/helvetic/uhvr8a.pfb><D:/MikTex/fonts/type1/urw/times/utmb8a.pfb><D:/MikTex/fonts/type1/urw/times/utmr8a.pfb><D:/MikTex/fonts/type1/urw/times/utmri8a.pfb>
+Output written on "c:/Users\Admin\OneDrive - AUT University\PHD Journey\Papers\IEEE Access\access\access.pdf" (19 pages, 881830 bytes).
 PDF statistics:
- 578 PDF objects out of 1000 (max. 8388607)
- 183 named destinations out of 1000 (max. 500000)
- 248 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 577 PDF objects out of 1000 (max. 8388607)
+ 182 named destinations out of 1000 (max. 500000)
+ 273 words of extra memory for PDF output out of 10000 (max. 10000000)
 
