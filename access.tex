@@ -350,6 +350,7 @@ As a result of this SLR and to answer RQ1, 22 BD RA has been found, among which 
 
 
 \begin{table*}
+    \renewcommand*{\arraystretch}{1.4}
     \caption{BD RAs}
     \label{table:bdRAs}
     \begin{tabular}{|p{0.4cm}|p{14.3cm}|p{1.2cm}|p{0.5cm}|}
@@ -428,6 +429,7 @@ Majority of RAs have been inspired or based on other RAs, and this signified the
 To answer this question in a systematic manner, and as a result of our data extraction, we listed all the components from all the BD RAs listed in the previous section. These components are described in table \ref{Table:BD-RAs-Components}.
 
 \begin{table*}
+    \renewcommand*{\arraystretch}{1.4}
     \caption{BD RAs Components}
     \label{Table:BD-RAs-Components}
     \begin{tabular}{|p{0.5cm}|p{16.5cm}|}
@@ -558,8 +560,9 @@ To answer the RQ3, RAS collected for this SLR have been appraised to point out l
 
 \begin{table*}
     \caption{BD RAs and Their Limitations}
+    \renewcommand*{\arraystretch}{1.4}
     \label{table:BD-RAs-Limitations}
-    \begin{tabular}{|p{0.3cm}|p{16.7cm}|}
+    \begin{tabular}{|p{0.3cm}|p{16.8cm}|}
         \hline
         RA & Description/Limitations \\ 
         \hline
@@ -601,6 +604,13 @@ To answer the RQ3, RAS collected for this SLR have been appraised to point out l
         \hline
         S19 & Driven from the NIST BD RA, this RA is more ore less identical with BD RA, but tailored specifically for emergency management. We skip explanation for this RA, as the limitations discussed for NIST BD RA, can be applied to this one as well. \\
         \hline
+    \end{tabular}
+\end{table*}
+
+\begin{table*}
+    \renewcommand*{\arraystretch}{1.4}
+    \begin{tabular}{|p{0.3cm}|p{16.8cm}|}
+        \hline
         S20 & This RA shares all the fundamental components with BD RA, and seems to be very similar. However, the phrase fabrics seesm to be changed to multi-layer functions. Therefore this RA, just like NIST is too abstract and leaves many architectural decisions unknown such as data storage, data quality assurance, and data ownership. It is unclear on how storage should be approached, and the overal structure resembles to a monolithic data pipeline architecture. \\
         \hline
         S21 & One of the few RAs that tend to absorb the concept of microservices into BD development. Nevertheless, the RA seems to be driven by the idea of one data lake for all data storage, which can be a daunting task to scale and maintain. The concept of metadata does not seem to be discussed, and other concerns such as security, privacy, data quality and data provenance are unclear.  \\
@@ -609,6 +619,8 @@ To answer the RQ3, RAS collected for this SLR have been appraised to point out l
         \hline
     \end{tabular}
 \end{table*}
+
+
 
 Except for one case (S22), all the architectures and RAs found as the result of this study, were designed underlying monolithic data pipeline architecture with four major components being data consumer, data processing, data infrastructure and data providers. To discuss the integral facets that embroil these architectures, one must
 look at the characteristics of these architectures and the ways in which they achieve their ends.
