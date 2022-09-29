@@ -1,6 +1,6 @@
 This is BibTeX, Version 0.99d
 Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
-The top-level auxiliary file: access.aux
+The top-level auxiliary file: state-of-bd-highlighted.aux
 Reallocating 'name_of_file' (item size: 1) to 6 items.
 The style file: unsrt.bst
 Reallocating 'name_of_file' (item size: 1) to 10 items.
@@ -8,7 +8,9 @@ Database file #1: mybibfile.bib
 Warning--empty journal in AtaeiACIS
 Warning--empty journal in AtaeiHype
 Warning--empty year in Derras
+Warning--all relevant fields are empty in JabRef
 Warning--empty journal in krippendorff2011computing
+Warning--all relevant fields are empty in JBI
 Warning--empty journal in lofland1971analyzing
 Warning--empty year in Klein
 Warning--empty institution in Chang
@@ -18,45 +20,45 @@ Warning--empty year in Williams
 Warning--empty author in SAPRA
 Warning--empty journal in SAPRA
 Warning--empty journal in chang2015nist
-You've used 91 entries,
+You've used 92 entries,
             1791 wiz_defined-function locations,
-            946 strings with 19928 characters,
-and the built_in function-call counts, 21444 in all, are:
-= -- 1911
-> -- 960
-< -- 28
-+ -- 359
-- -- 268
-* -- 1277
-:= -- 3280
-add.period$ -- 282
-call.type$ -- 91
-change.case$ -- 81
+            944 strings with 19814 characters,
+and the built_in function-call counts, 21254 in all, are:
+= -- 1874
+> -- 954
+< -- 27
++ -- 358
+- -- 266
+* -- 1264
+:= -- 3242
+add.period$ -- 281
+call.type$ -- 92
+change.case$ -- 80
 chr.to.int$ -- 0
-cite$ -- 104
-duplicate$ -- 1049
-empty$ -- 2112
-format.name$ -- 268
-if$ -- 4940
+cite$ -- 107
+duplicate$ -- 1039
+empty$ -- 2118
+format.name$ -- 266
+if$ -- 4893
 int.to.chr$ -- 0
-int.to.str$ -- 91
-missing$ -- 91
-newline$ -- 448
-num.names$ -- 89
-pop$ -- 365
+int.to.str$ -- 92
+missing$ -- 90
+newline$ -- 449
+num.names$ -- 88
+pop$ -- 372
 preamble$ -- 1
 purify$ -- 0
 quote$ -- 0
-skip$ -- 554
+skip$ -- 555
 stack$ -- 0
-substring$ -- 1191
-swap$ -- 309
-text.length$ -- 28
+substring$ -- 1157
+swap$ -- 299
+text.length$ -- 27
 text.prefix$ -- 0
 top$ -- 0
 type$ -- 0
-warning$ -- 13
-while$ -- 202
-width$ -- 93
-write$ -- 959
-(There were 13 warnings)
+warning$ -- 15
+while$ -- 198
+width$ -- 94
+write$ -- 956
+(There were 15 warnings)

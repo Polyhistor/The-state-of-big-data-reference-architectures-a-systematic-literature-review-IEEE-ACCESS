@@ -1,9 +1,9 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7440 64-bit) (preloaded format=pdflatex 2022.1.31)  27 SEP 2022 22:28
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7440 64-bit) (preloaded format=pdflatex 2022.1.31)  29 SEP 2022 22:17
 entering extended mode
-**"c:/Users/Admin/OneDrive - AUT University/PHD Journey/Papers/IEEE Access - BD RAs SLR/access/access.tex"
-("c:/Users/Admin/OneDrive - AUT University/PHD Journey/Papers/IEEE Access - BD RAs SLR/access/access.tex"
+**"c:/Users/Admin/OneDrive - AUT University/PHD Journey/Papers/IEEE Access - BD RAs SLR/access/after-review/highlighted/state-of-bd-highlighted.tex"
+("c:/Users/Admin/OneDrive - AUT University/PHD Journey/Papers/IEEE Access - BD RAs SLR/access/after-review/highlighted/state-of-bd-highlighted.tex"
 LaTeX2e <2020-02-02> patch level 5
-L3 programming layer <2020-05-15> ("c:/Users\Admin\OneDrive - AUT University\PHD Journey\Papers\IEEE Access - BD RAs SLR\access\ieeeaccess.cls" ("c:/Users\Admin\OneDrive - AUT University\PHD Journey\Papers\IEEE Access - BD RAs SLR\access\IEEEtran.cls"
+L3 programming layer <2020-05-15> ("c:/Users\Admin\OneDrive - AUT University\PHD Journey\Papers\IEEE Access - BD RAs SLR\access\after-review\highlighted\ieeeaccess.cls" (D:\MikTex\tex/latex/ieeetran\IEEEtran.cls
 Document Class: IEEEtran 2015/08/26 V1.8b by Michael Shell
 -- See the "IEEEtran_HOWTO" manual for usage information.
 -- http://www.michaelshell.org/tex/ieeetran/
@@ -129,7 +129,7 @@ File: color.cfg 2016/01/02 v1.6 sample color configuration
 Package color Info: Driver file: pdftex.def on input line 147.
  (D:\MikTex\tex/latex/graphics-def\pdftex.def
 File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
-)) ("c:/Users\Admin\OneDrive - AUT University\PHD Journey\Papers\IEEE Access - BD RAs SLR\access\spotcolor.sty"
+)) (D:\MikTex\tex/latex/spotcolor\spotcolor.sty
 Package: spotcolor 2006/11/15 v1.2 Package for adding Spot Color support to pdfLaTeX.
  (D:\MikTex\tex/latex/graphics\graphics.sty
 Package: graphics 2019/11/30 v1.4a Standard LaTeX Graphics (DPC,SPQR)
@@ -381,8 +381,8 @@ Package: multirow 2019/05/31 v2.5 Span multiple rows of a table
 File: l3backend-pdfmode.def 2020-05-05 L3 backend support: PDF mode
 \l__kernel_color_stack_int=\count292
 \l__pdf_internal_box=\box58
-) ("c:/Users\Admin\OneDrive - AUT University\PHD Journey\Papers\IEEE Access - BD RAs SLR\access\access.aux")
-\openout1 = `access.aux'.
+) ("c:/Users\Admin\OneDrive - AUT University\PHD Journey\Papers\IEEE Access - BD RAs SLR\access\after-review\highlighted\state-of-bd-highlighted.aux")
+\openout1 = `state-of-bd-highlighted.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 13.
 LaTeX Font Info:    ... okay on input line 13.
@@ -441,9 +441,9 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 LaTeX Info: Redefining \ref on input line 13.
 LaTeX Info: Redefining \pageref on input line 13.
 LaTeX Info: Redefining \nameref on input line 13.
- ("c:/Users\Admin\OneDrive - AUT University\PHD Journey\Papers\IEEE Access - BD RAs SLR\access\access.out") ("c:/Users\Admin\OneDrive - AUT University\PHD Journey\Papers\IEEE Access - BD RAs SLR\access\access.out")
+ ("c:/Users\Admin\OneDrive - AUT University\PHD Journey\Papers\IEEE Access - BD RAs SLR\access\after-review\highlighted\state-of-bd-highlighted.out") ("c:/Users\Admin\OneDrive - AUT University\PHD Journey\Papers\IEEE Access - BD RAs SLR\access\after-review\highlighted\state-of-bd-highlighted.out")
 \@outlinefile=\write3
-\openout3 = `access.out'.
+\openout3 = `state-of-bd-highlighted.out'.
 
 <bullet.png, id=104, 12.045pt x 35.38219pt>
 File: bullet.png Graphic file (type png)
@@ -485,13 +485,10 @@ Overfull \hbox (9.2679pt too wide) in paragraph at lines 38--38
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-<logo.png, id=112, 206.27063pt x 53.44969pt>
+<logo.png, id=113, 206.27063pt x 53.44969pt>
 File: logo.png Graphic file (type png)
 <use logo.png>
-Package pdftex.def Info: logo.png  used on input line 48.
+Package pdftex.def Info: logo.png  used on input line 50.
 (pdftex.def)             Requested size: 91.32pt x 23.66309pt.
 
 Overfull \hbox (505.12177pt too wide) has occurred while \output is active
@@ -516,7 +513,7 @@ Underfull \hbox (badness 10000) has occurred while \output is active
 [1
 
 
- <c:/Users/Admin/OneDrive - AUT University/PHD Journey/Papers/IEEE Access - BD RAs SLR/access/logo.png> <c:/Users/Admin/OneDrive - AUT University/PHD Journey/Papers/IEEE Access - BD RAs SLR/access/bullet.png>]
+ <c:/Users/Admin/OneDrive - AUT University/PHD Journey/Papers/IEEE Access - BD RAs SLR/access/after-review/highlighted/logo.png> <c:/Users/Admin/OneDrive - AUT University/PHD Journey/Papers/IEEE Access - BD RAs SLR/access/after-review/highlighted/bullet.png>]
 <notaglinelogo.png, id=144, 169.38281pt x 42.91031pt>
 File: notaglinelogo.png Graphic file (type png)
 <use notaglinelogo.png>
@@ -537,14 +534,14 @@ Underfull \hbox (badness 10000) has occurred while \output is active
 []
  []
 
-[2 <c:/Users/Admin/OneDrive - AUT University/PHD Journey/Papers/IEEE Access - BD RAs SLR/access/notaglinelogo.png>]
+[2 <c:/Users/Admin/OneDrive - AUT University/PHD Journey/Papers/IEEE Access - BD RAs SLR/access/after-review/highlighted/notaglinelogo.png>]
 Underfull \hbox (badness 1960) in paragraph at lines 105--106
 []\T1/ptm/n/n/10 ("Document Ti-tle":big data) AND ("Doc-u-ment Ti-
  []
 
 File: notaglinelogo.png Graphic file (type png)
 <use notaglinelogo.png>
-Package pdftex.def Info: notaglinelogo.png  used on input line 117.
+Package pdftex.def Info: notaglinelogo.png  used on input line 118.
 (pdftex.def)             Requested size: 91.32pt x 23.1352pt.
 
 Overfull \hbox (505.12177pt too wide) has occurred while \output is active
@@ -583,8 +580,8 @@ Underfull \hbox (badness 10000) has occurred while \output is active
 
 [4]
 
-pdfTeX warning: pdflatex (file c:/Users/Admin/OneDrive - AUT University/PHD Journey/Papers/IEEE Access - BD RAs SLR/access/PRISMA/PRISMA_Flow_Diagram-2.pdf): PDF inclusion: found PDF version <1.6>, but at most version <1.5> allowed
-<PRISMA/PRISMA_Flow_Diagram-2.pdf, id=212, 845.07718pt x 597.55246pt>
+pdfTeX warning: pdflatex (file c:/Users/Admin/OneDrive - AUT University/PHD Journey/Papers/IEEE Access - BD RAs SLR/access/after-review/highlighted/PRISMA/PRISMA_Flow_Diagram-2.pdf): PDF inclusion: found PDF version <1.6>, but at most version <1.5> allowed
+<PRISMA/PRISMA_Flow_Diagram-2.pdf, id=214, 845.07718pt x 597.55246pt>
 File: PRISMA/PRISMA_Flow_Diagram-2.pdf Graphic file (type pdf)
 <use PRISMA/PRISMA_Flow_Diagram-2.pdf>
 Package pdftex.def Info: PRISMA/PRISMA_Flow_Diagram-2.pdf  used on input line 180.
@@ -594,7 +591,7 @@ Overfull \hbox (7.02783pt too wide) in paragraph at lines 180--181
 [][] 
  []
 
-<Media/databases-statitistic-[Recovered].png, id=214, 1505.625pt x 1001.7425pt>
+<Media/databases-statitistic-[Recovered].png, id=216, 1505.625pt x 1001.7425pt>
 File: Media/databases-statitistic-[Recovered].png Graphic file (type png)
 <use Media/databases-statitistic-[Recovered].png>
 Package pdftex.def Info: Media/databases-statitistic-[Recovered].png  used on input line 189.
@@ -624,8 +621,6 @@ Underfull \hbox (badness 10000) has occurred while \output is active
  []
 
 [5]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
 File: notaglinelogo.png Graphic file (type png)
 <use notaglinelogo.png>
 Package pdftex.def Info: notaglinelogo.png  used on input line 237.
@@ -645,7 +640,7 @@ Underfull \hbox (badness 10000) has occurred while \output is active
 []
  []
 
-[6 <c:/Users/Admin/OneDrive - AUT University/PHD Journey/Papers/IEEE Access - BD RAs SLR/access/PRISMA/PRISMA_Flow_Diagram-2.pdf>]
+[6 <c:/Users/Admin/OneDrive - AUT University/PHD Journey/Papers/IEEE Access - BD RAs SLR/access/after-review/highlighted/PRISMA/PRISMA_Flow_Diagram-2.pdf>]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
@@ -653,7 +648,7 @@ Underfull \vbox (badness 1226) has occurred while \output is active []
 
 File: notaglinelogo.png Graphic file (type png)
 <use notaglinelogo.png>
-Package pdftex.def Info: notaglinelogo.png  used on input line 248.
+Package pdftex.def Info: notaglinelogo.png  used on input line 249.
 (pdftex.def)             Requested size: 91.32pt x 23.1352pt.
 
 Overfull \hbox (505.12177pt too wide) has occurred while \output is active
@@ -670,10 +665,10 @@ Underfull \hbox (badness 10000) has occurred while \output is active
 []
  []
 
-[7 <c:/Users/Admin/OneDrive - AUT University/PHD Journey/Papers/IEEE Access - BD RAs SLR/access/Media/databases-statitistic-[Recovered].png (PNG copy)>]
+[7 <c:/Users/Admin/OneDrive - AUT University/PHD Journey/Papers/IEEE Access - BD RAs SLR/access/after-review/highlighted/Media/databases-statitistic-[Recovered].png (PNG copy)>]
 File: notaglinelogo.png Graphic file (type png)
 <use notaglinelogo.png>
-Package pdftex.def Info: notaglinelogo.png  used on input line 279.
+Package pdftex.def Info: notaglinelogo.png  used on input line 280.
 (pdftex.def)             Requested size: 91.32pt x 23.1352pt.
 
 Overfull \hbox (505.12177pt too wide) has occurred while \output is active
@@ -693,7 +688,7 @@ Underfull \hbox (badness 10000) has occurred while \output is active
 [8]
 File: notaglinelogo.png Graphic file (type png)
 <use notaglinelogo.png>
-Package pdftex.def Info: notaglinelogo.png  used on input line 306.
+Package pdftex.def Info: notaglinelogo.png  used on input line 308.
 (pdftex.def)             Requested size: 91.32pt x 23.1352pt.
 
 Overfull \hbox (505.12177pt too wide) has occurred while \output is active
@@ -835,7 +830,7 @@ Overfull \hbox (2.57506pt too wide) in paragraph at lines 395--444
 [][] 
  []
 
-<wordcloud.png, id=412, 1445.4pt x 763.85374pt>
+<wordcloud.png, id=417, 1445.4pt x 763.85374pt>
 File: wordcloud.png Graphic file (type png)
 <use wordcloud.png>
 Package pdftex.def Info: wordcloud.png  used on input line 451.
@@ -850,7 +845,7 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 
 File: notaglinelogo.png Graphic file (type png)
 <use notaglinelogo.png>
-Package pdftex.def Info: notaglinelogo.png  used on input line 457.
+Package pdftex.def Info: notaglinelogo.png  used on input line 459.
 (pdftex.def)             Requested size: 91.32pt x 23.1352pt.
 
 Overfull \hbox (505.12177pt too wide) has occurred while \output is active
@@ -870,7 +865,7 @@ Underfull \hbox (badness 10000) has occurred while \output is active
 [10]
 File: notaglinelogo.png Graphic file (type png)
 <use notaglinelogo.png>
-Package pdftex.def Info: notaglinelogo.png  used on input line 472.
+Package pdftex.def Info: notaglinelogo.png  used on input line 474.
 (pdftex.def)             Requested size: 91.32pt x 23.1352pt.
 
 Overfull \hbox (505.12177pt too wide) has occurred while \output is active
@@ -888,11 +883,9 @@ Underfull \hbox (badness 10000) has occurred while \output is active
  []
 
 [11]
-Underfull \vbox (badness 2662) has occurred while \output is active []
-
 File: notaglinelogo.png Graphic file (type png)
 <use notaglinelogo.png>
-Package pdftex.def Info: notaglinelogo.png  used on input line 484.
+Package pdftex.def Info: notaglinelogo.png  used on input line 487.
 (pdftex.def)             Requested size: 91.32pt x 23.1352pt.
 
 Overfull \hbox (505.12177pt too wide) has occurred while \output is active
@@ -910,9 +903,11 @@ Underfull \hbox (badness 10000) has occurred while \output is active
  []
 
 [12]
+Underfull \vbox (badness 1383) has occurred while \output is active []
+
 File: notaglinelogo.png Graphic file (type png)
 <use notaglinelogo.png>
-Package pdftex.def Info: notaglinelogo.png  used on input line 503.
+Package pdftex.def Info: notaglinelogo.png  used on input line 505.
 (pdftex.def)             Requested size: 91.32pt x 23.1352pt.
 
 Overfull \hbox (505.12177pt too wide) has occurred while \output is active
@@ -929,7 +924,7 @@ Underfull \hbox (badness 10000) has occurred while \output is active
 []
  []
 
-[13 <c:/Users/Admin/OneDrive - AUT University/PHD Journey/Papers/IEEE Access - BD RAs SLR/access/wordcloud.png>]
+[13 <c:/Users/Admin/OneDrive - AUT University/PHD Journey/Papers/IEEE Access - BD RAs SLR/access/after-review/highlighted/wordcloud.png>]
 Overfull \hbox (2.576pt too wide) in paragraph at lines 527--527
 []\T1/ptm/m/n/8 RA| 
  []
@@ -1014,7 +1009,7 @@ Overfull \hbox (5.42052pt too wide) in paragraph at lines 572--581
 
 File: notaglinelogo.png Graphic file (type png)
 <use notaglinelogo.png>
-Package pdftex.def Info: notaglinelogo.png  used on input line 607.
+Package pdftex.def Info: notaglinelogo.png  used on input line 609.
 (pdftex.def)             Requested size: 91.32pt x 23.1352pt.
 
 Overfull \hbox (505.12177pt too wide) has occurred while \output is active
@@ -1034,7 +1029,7 @@ Underfull \hbox (badness 10000) has occurred while \output is active
 [14]
 File: notaglinelogo.png Graphic file (type png)
 <use notaglinelogo.png>
-Package pdftex.def Info: notaglinelogo.png  used on input line 607.
+Package pdftex.def Info: notaglinelogo.png  used on input line 609.
 (pdftex.def)             Requested size: 91.32pt x 23.1352pt.
 
 Overfull \hbox (505.12177pt too wide) has occurred while \output is active
@@ -1054,7 +1049,7 @@ Underfull \hbox (badness 10000) has occurred while \output is active
 [15]
 File: notaglinelogo.png Graphic file (type png)
 <use notaglinelogo.png>
-Package pdftex.def Info: notaglinelogo.png  used on input line 635.
+Package pdftex.def Info: notaglinelogo.png  used on input line 637.
 (pdftex.def)             Requested size: 91.32pt x 23.1352pt.
 
 Overfull \hbox (505.12177pt too wide) has occurred while \output is active
@@ -1071,14 +1066,14 @@ Underfull \hbox (badness 10000) has occurred while \output is active
 []
  []
 
-[16] ("c:/Users\Admin\OneDrive - AUT University\PHD Journey\Papers\IEEE Access - BD RAs SLR\access\access.bbl"
+[16] ("c:/Users\Admin\OneDrive - AUT University\PHD Journey\Papers\IEEE Access - BD RAs SLR\access\after-review\highlighted\state-of-bd-highlighted.bbl"
 
 LaTeX Font Warning: Font shape `T1/ptm/n/it' undefined
 (Font)              using `T1/ptm/n/n' instead on input line 6.
 
 File: notaglinelogo.png Graphic file (type png)
 <use notaglinelogo.png>
-Package pdftex.def Info: notaglinelogo.png  used on input line 85.
+Package pdftex.def Info: notaglinelogo.png  used on input line 92.
 (pdftex.def)             Requested size: 91.32pt x 23.1352pt.
 
 Overfull \hbox (505.12177pt too wide) has occurred while \output is active
@@ -1111,7 +1106,7 @@ LaTeX Font Warning: Font shape `TS1/ptm/n/n' undefined
 
 File: notaglinelogo.png Graphic file (type png)
 <use notaglinelogo.png>
-Package pdftex.def Info: notaglinelogo.png  used on input line 369.
+Package pdftex.def Info: notaglinelogo.png  used on input line 377.
 (pdftex.def)             Requested size: 91.32pt x 23.1352pt.
 
 Overfull \hbox (505.12177pt too wide) has occurred while \output is active
@@ -1133,7 +1128,7 @@ Underfull \hbox (badness 10000) has occurred while \output is active
 Package hyperref Warning: The anchor of a bookmark and its parent's must not
 (hyperref)                be the same. Added a new anchor on input line 664.
 
-<Biography/Pouya-Ataei.jpg, id=497, 301.125pt x 376.40625pt>
+<Biography/Pouya-Ataei.jpg, id=499, 301.125pt x 376.40625pt>
 File: Biography/Pouya-Ataei.jpg Graphic file (type jpg)
 <use Biography/Pouya-Ataei.jpg>
 Package pdftex.def Info: Biography/Pouya-Ataei.jpg  used on input line 664.
@@ -1142,7 +1137,7 @@ File: Biography/Pouya-Ataei.jpg Graphic file (type jpg)
 <use Biography/Pouya-Ataei.jpg>
 Package pdftex.def Info: Biography/Pouya-Ataei.jpg  used on input line 664.
 (pdftex.def)             Requested size: 72.26688pt x 90.33359pt.
-<Biography/Alan-Litchfield.jpg, id=500, 411.5375pt x 513.92pt>
+<Biography/Alan-Litchfield.jpg, id=502, 411.5375pt x 513.92pt>
 File: Biography/Alan-Litchfield.jpg Graphic file (type jpg)
 <use Biography/Alan-Litchfield.jpg>
 Package pdftex.def Info: Biography/Alan-Litchfield.jpg  used on input line 666.
@@ -1175,12 +1170,12 @@ Underfull \hbox (badness 10000) has occurred while \output is active
 []
  []
 
-[19 <c:/Users/Admin/OneDrive - AUT University/PHD Journey/Papers/IEEE Access - BD RAs SLR/access/Biography/Pouya-Ataei.jpg> <c:/Users/Admin/OneDrive - AUT University/PHD Journey/Papers/IEEE Access - BD RAs SLR/access/Biography/Alan-Litchfield.jpg>]
+[19 <c:/Users/Admin/OneDrive - AUT University/PHD Journey/Papers/IEEE Access - BD RAs SLR/access/after-review/highlighted/Biography/Pouya-Ataei.jpg> <c:/Users/Admin/OneDrive - AUT University/PHD Journey/Papers/IEEE Access - BD RAs SLR/access/after-review/highlighted/Biography/Alan-Litchfield.jpg>]
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 671.
- ("c:/Users\Admin\OneDrive - AUT University\PHD Journey\Papers\IEEE Access - BD RAs SLR\access\access.aux")
+ ("c:/Users\Admin\OneDrive - AUT University\PHD Journey\Papers\IEEE Access - BD RAs SLR\access\after-review\highlighted\state-of-bd-highlighted.aux")
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 671.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 671.
-Package rerunfilecheck Info: File `access.out' has not changed.
+Package rerunfilecheck Info: File `state-of-bd-highlighted.out' has not changed.
 (rerunfilecheck)             Checksum: 9E889E9F3F73773ADF5DF22FA79FE2D5;1694.
 
 
@@ -1189,19 +1184,19 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 671.
  ) 
 Here is how much of TeX's memory you used:
- 8689 strings out of 480795
- 129824 string characters out of 2913777
- 425021 words of memory out of 3000000
+ 8692 strings out of 480795
+ 130413 string characters out of 2913777
+ 425067 words of memory out of 3000000
  24304 multiletter control sequences out of 15000+200000
- 621866 words of font info for 145 fonts, out of 3000000 for 9000
+ 620222 words of font info for 144 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 38i,13n,53p,1847b,528s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 38i,13n,53p,1722b,527s stack positions out of 5000i,500n,10000p,200000b,50000s
 pdfTeX warning (dest): name{section*.1} has been referenced but does not exist, replaced by a fixed one
 
 {D:/MikTex/fonts/enc/dvips/base/8r.enc}<D:/MikTex/fonts/type1/public/amsfonts/cm/cmmi10.pfb><D:/MikTex/fonts/type1/public/amsfonts/cm/cmsy7.pfb><D:/MikTex/fonts/type1/urw/helvetic/uhvb8a.pfb><D:/MikTex/fonts/type1/urw/helvetic/uhvbo8a.pfb><D:/MikTex/fonts/type1/urw/helvetic/uhvr8a.pfb><D:/MikTex/fonts/type1/urw/times/utmb8a.pfb><D:/MikTex/fonts/type1/urw/times/utmr8a.pfb><D:/MikTex/fonts/type1/urw/times/utmri8a.pfb>
-Output written on "c:/Users\Admin\OneDrive - AUT University\PHD Journey\Papers\IEEE Access - BD RAs SLR\access\access.pdf" (19 pages, 882847 bytes).
+Output written on "c:/Users\Admin\OneDrive - AUT University\PHD Journey\Papers\IEEE Access - BD RAs SLR\access\after-review\highlighted\state-of-bd-highlighted.pdf" (19 pages, 882986 bytes).
 PDF statistics:
- 577 PDF objects out of 1000 (max. 8388607)
- 182 named destinations out of 1000 (max. 500000)
+ 579 PDF objects out of 1000 (max. 8388607)
+ 183 named destinations out of 1000 (max. 500000)
  273 words of extra memory for PDF output out of 10000 (max. 10000000)
 
