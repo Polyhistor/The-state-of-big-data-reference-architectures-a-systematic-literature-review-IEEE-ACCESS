@@ -102,9 +102,6 @@ Maura Borrego, Margaret~J Foster, and Jeffrey~E Froyd.
   developing interdisciplinary fields.
 \newblock {\em Journal of Engineering Education}, 103(1):45--76, 2014.
 
-\bibitem{JabRef}
-
-
 \bibitem{krippendorff2011computing}
 Klaus Krippendorff.
 \newblock Computing krippendorff's alpha-reliability.
@@ -132,7 +129,11 @@ CASP Tools.
 \newblock Checklists, critical appraisal skills programme (casp), 2018.
 
 \bibitem{JBI}
-
+Zachary Munn, Timothy~Hugh Barker, Sandeep Moola, Catalin Tufanaru, Cindy
+  Stern, Alexa McArthur, Matthew Stephenson, and Edoardo Aromataris.
+\newblock Methodological quality of case series studies: an introduction to the
+  jbi critical appraisal tool.
+\newblock {\em JBI evidence synthesis}, 18(10):2127--2133, 2020.
 
 \bibitem{runeson2006we}
 Per Runeson, Carina Andersson, Thomas Thelin, Anneliese Andrews, and Tomas
