@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7440 64-bit) (preloaded format=pdflatex 2022.1.31)  30 SEP 2022 22:42
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7440 64-bit) (preloaded format=pdflatex 2022.1.31)  1 OCT 2022 16:41
 entering extended mode
 **"c:/Users/Admin/OneDrive - AUT University/PHD Journey/Papers/IEEE Access - BD RAs SLR/access/after-review/highlighted/state-of-bd-highlighted.tex"
 ("c:/Users/Admin/OneDrive - AUT University/PHD Journey/Papers/IEEE Access - BD RAs SLR/access/after-review/highlighted/state-of-bd-highlighted.tex"
@@ -887,7 +887,7 @@ Underfull \vbox (badness 2662) has occurred while \output is active []
 
 File: notaglinelogo.png Graphic file (type png)
 <use notaglinelogo.png>
-Package pdftex.def Info: notaglinelogo.png  used on input line 487.
+Package pdftex.def Info: notaglinelogo.png  used on input line 488.
 (pdftex.def)             Requested size: 91.32pt x 23.1352pt.
 
 Overfull \hbox (505.12177pt too wide) has occurred while \output is active
@@ -1051,7 +1051,7 @@ Underfull \hbox (badness 10000) has occurred while \output is active
 [15]
 File: notaglinelogo.png Graphic file (type png)
 <use notaglinelogo.png>
-Package pdftex.def Info: notaglinelogo.png  used on input line 636.
+Package pdftex.def Info: notaglinelogo.png  used on input line 637.
 (pdftex.def)             Requested size: 91.32pt x 23.1352pt.
 
 Overfull \hbox (505.12177pt too wide) has occurred while \output is active
@@ -1075,7 +1075,7 @@ LaTeX Font Warning: Font shape `T1/ptm/n/it' undefined
 
 File: notaglinelogo.png Graphic file (type png)
 <use notaglinelogo.png>
-Package pdftex.def Info: notaglinelogo.png  used on input line 104.
+Package pdftex.def Info: notaglinelogo.png  used on input line 119.
 (pdftex.def)             Requested size: 91.32pt x 23.1352pt.
 
 Overfull \hbox (505.12177pt too wide) has occurred while \output is active
@@ -1108,7 +1108,7 @@ LaTeX Font Warning: Font shape `TS1/ptm/n/n' undefined
 
 File: notaglinelogo.png Graphic file (type png)
 <use notaglinelogo.png>
-Package pdftex.def Info: notaglinelogo.png  used on input line 397.
+Package pdftex.def Info: notaglinelogo.png  used on input line 404.
 (pdftex.def)             Requested size: 91.32pt x 23.1352pt.
 
 Overfull \hbox (505.12177pt too wide) has occurred while \output is active
@@ -1196,7 +1196,7 @@ Here is how much of TeX's memory you used:
 pdfTeX warning (dest): name{section*.1} has been referenced but does not exist, replaced by a fixed one
 
 {D:/MikTex/fonts/enc/dvips/base/8r.enc}<D:/MikTex/fonts/type1/public/amsfonts/cm/cmmi10.pfb><D:/MikTex/fonts/type1/public/amsfonts/cm/cmsy7.pfb><D:/MikTex/fonts/type1/urw/helvetic/uhvb8a.pfb><D:/MikTex/fonts/type1/urw/helvetic/uhvbo8a.pfb><D:/MikTex/fonts/type1/urw/helvetic/uhvr8a.pfb><D:/MikTex/fonts/type1/urw/times/utmb8a.pfb><D:/MikTex/fonts/type1/urw/times/utmr8a.pfb><D:/MikTex/fonts/type1/urw/times/utmri8a.pfb>
-Output written on "c:/Users\Admin\OneDrive - AUT University\PHD Journey\Papers\IEEE Access - BD RAs SLR\access\after-review\highlighted\state-of-bd-highlighted.pdf" (19 pages, 882654 bytes).
+Output written on "c:/Users\Admin\OneDrive - AUT University\PHD Journey\Papers\IEEE Access - BD RAs SLR\access\after-review\highlighted\state-of-bd-highlighted.pdf" (19 pages, 882566 bytes).
 PDF statistics:
  577 PDF objects out of 1000 (max. 8388607)
  182 named destinations out of 1000 (max. 500000)
