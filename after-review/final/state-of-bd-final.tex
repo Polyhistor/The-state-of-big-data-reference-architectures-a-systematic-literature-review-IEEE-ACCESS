@@ -25,7 +25,7 @@ systematic literature review}
 \address[2]{Service and Cloud Computing Research Lab, Auckland University of Technology, Auckland, New Zealand (e-mail: alan.litchfield@aut.ac.nz)}
 
 \begin{abstract}
-    Big Data (BD) is a nascent term emerged to describe large amount of data that comes in different forms from various channels. In modern world, users are the ceaseless generators of structured, semi-structured, and unstructured data that if gleaned and crunched precisely, will reveal game-changing patterns. While opportunities exist with BD, the unprecedented amount of data has brought traditional approaches to a bottleneck. The growth of data is outpacing technological and scientific advances in data analytics. According to multiple sources, it is estimated that 75\% of the BD projects have failed within the last decade. Among the challenges, system development and data architecture are prominent. This paper aims to facilitate BD system development and architecture by conducting a systematic literature review on BD reference architectures (RA). The primary goal is to highlight the state of BD RAs and how they can be helpful for BD system development. The secondary goal is to find all BD RAs, describe the challenges of creating these RAs, discuss the common architectural components of these RA and the limitations of these RA. As a result of this work, firstly major concepts about RA are discussed and their applicability to BD system development is depicted. Secondly, 22 BD reference architecture is assessed from academia and practice and their commonalities, challenges, and limitations are identified. The findings gained emerges the understanding that RAs can be an effective artefact to tackle complex BD system development.
+    Big Data (BD) is a nascent term emerged to describe large amount of data that comes in different forms from various channels. In the modern world, users are the ceaseless generators of structured, semi-structured, and unstructured data that if gleaned and crunched precisely, will reveal game-changing patterns. While opportunities exist with BD, the unprecedented amount of data has brought traditional approaches to a bottleneck. The growth of data is outpacing technological and scientific advances in data analytics. According to multiple sources, it is estimated that 75\% of the BD projects have failed within the last decade. Among the challenges, system development and data architecture are prominent. This paper aims to facilitate BD system development and architecture by conducting a systematic literature review on BD reference architectures (RA). The primary goal is to highlight the state of BD RAs and how they can be helpful for BD system development. The secondary goal is to find all BD RAs, describe the challenges of creating these RAs, discuss the common architectural components of these RA and the limitations of these RA. As a result of this work, firstly major concepts about RA are discussed and their applicability to BD system development is depicted. Secondly, 22 BD reference architecture is assessed from academia and practice and their commonalities, challenges, and limitations are identified. The findings gained emerges the understanding that RAs can be an effective artefact to tackle complex BD system development.
 \end{abstract}
 
 \begin{keywords}
@@ -59,7 +59,7 @@ This approach to system development is not new to practitioners of complex syste
 
 Despite the benefits of utilizing RAs, and their potential to solve some of the complex issues of BD systems, we think that this area is underdeveloped and needs more attention from both academia and practice. This insight is derived from our preliminary systematic review in academia, and search for available big data RAs \cite{AtaeiACIS}.
 
-One of the most comprehensive BD RA published, is the National Institute of Standards and Technology (NIST) BD RA, which published by Big Data Public Working Group (NBD-PWG) with large set of contributors from academia, industry, non-profit organizations, and others. This RA was an initiative from White house in March 2012, and was published in October 2019 with considerable amount of investment. 
+One of the most comprehensive BD RA published, is the National Institute of Standards and Technology (NIST) BD RA. This RA is published by Big Data Public Working Group (NBD-PWG) with large set of contributors from academia, industry, non-profit organizations, and others. This RA was an initiative from the White House in March 2012, and was published in October 2019 with considerable amount of investment. 
 
 Given the substantial investment on BD RAs, one might infer the value of these artifacts, and this can in turn highlights the necessity for more research in this domain. Another factor that came to light, is how vaguely the phrase 'reference architecture' is defined and institutionalized. For instance, the difference between a 'concrete architecture' and a 'reference architecture' is hardly discussed, and different domains seem to have defined the artifact slightly differently. 
 
@@ -133,7 +133,7 @@ And the studies with the following topics were excluded:
     \item Studies that are not written in English
 \end{itemize}
 
-Disagreement among researchers were resolved using Krippendorff’s alpha \cite{krippendorff2011computing}. Our aim was not to get involved in a very complicated statistics model, so we've done most of the computations using SPSS, specifically with Hayes’ macro. We made sure that a separate file is created for each variable, and inserted coders as variables and not a constant value. Our $ \alpha $ value was within the acceptable range (above 80), and any disagreement was solved by inviting a third person or a moderator. When $ \alpha $ value was very low (indicating a low reliability), we stopped the process, and tried to clarify fundamental concepts and categories. The final computed $ \alpha $ value was 89.9\%. 
+Disagreement among researchers were resolved using Krippendorff’s alpha \cite{krippendorff2011computing}. Our aim was not to get involved in a very complicated statistics model, so we have done most of the computations using SPSS, specifically with Hayes’ macro. We made sure that a separate file is created for each variable, and inserted coders as variables and not a constant value. Our $ \alpha $ value was within the acceptable range (above 80), and any disagreement was solved by inviting a third person or a moderator. When $ \alpha $ value was very low (indicating a low reliability), we stopped the process, and tried to clarify fundamental concepts and categories. The final computed $ \alpha $ value was 89.9\%. 
 
 In stage 2, After excluding papers based on inclusion and exclusion criteria, and as suggested by Kitchenham et al. \cite{kitchenham2015evidence}, we assessed studies based on their quality. Quality of the evidence collected as a result of this SLR has direct impact on the quality of the findings, making quality assessment an important undertaking.
 
@@ -141,27 +141,27 @@ However, this process comes with some well-known complexities. The most fundamen
 
 Considering the rather heterogeneous nature of software engineering and information systems (IS) papers, and difficulty of defining quality in studies with varying nature, we first analyzed a few well-established checklists such as Critical Appraisal Skills Programme (CASP \cite{tools2018checklists}), and  I's critical appraisal tool (\cite{JBI}). Whereas these checklists could potentially account for the requirements of this study, we opted for something that is more specific to software engineering and IS. We realized for example that, Runeson et al. \cite{runeson2006we} provided a checklist designated to help researchers reading and undertaking software engineering case studies. In the same vein, Dyba et al. \cite{dybaa2008empirical} proposed a quality criteria based on CASP checklist for qualitative studies in software engineering systematic reviews. 
 
-Nevertheless, the challenge is that our study includes a large number of different study types that needs to go through a single checklist. To address this, we developed a criteria made up of 7 elements. These criteria are informed by those proposed by CASP for assessing the quality of qualitative research \cite{tools2018checklists} and by guidelines provided by Kitchenham \cite{kitchenham2002preliminary} on empirical research in software engineering. The 7 criteria tested literature on 4 major areas that can critically affect the quality of the studies. These categories and the corresponding criteria are as following;
+Nevertheless, the challenge is that our study included a large number of different study types that needed to go through a single checklist. To address this, we developed a criteria made up of 7 elements. These criteria are informed by those proposed by CASP for assessing the quality of qualitative research \cite{tools2018checklists} and by guidelines provided by Kitchenham \cite{kitchenham2002preliminary} on empirical research in software engineering. The 7 criteria tested literature on 4 major areas that can critically affect the quality of the studies. These categories and the corresponding criteria are as following;
 
 \begin{enumerate}
     \item \emph{Minimum quality threshold:} 
     \begin{enumerate}
-        \item Does the study report empirical research or is it merely a 'lesson learnt' report based on expert opinion ?
-        \item The objectives and aims of the study is clearly communicated, including the reasoning for why the study was undertaken ? 
-        \item Does the study provide with adequate information regarding the context in which the research was carried out ?
+        \item Does the study report empirical research or is it merely a 'lesson learnt' report based on expert opinion?
+        \item The objectives and aims of the study is clearly communicated, including the reasoning for why the study was undertaken.
+        \item Does the study provide with adequate information regarding the context in which the research was carried out?
     \end{enumerate}
     \item \emph{Rigour:}
     \begin{enumerate}
-        \item Is the research design appropriate to address the objectives of the research ?
-        \item Is there any data collection method used and is it appropriate ?
+        \item Is the research design appropriate to address the objectives of the research?
+        \item Is there any data collection method used and is it appropriate?
     \end{enumerate}
     \item \emph{Credibility:}
       \begin{enumerate}
-        \item Does the study report findings in a clear and unbiased manner ? 
+        \item Does the study report findings in a clear and unbiased manner? 
      \end{enumerate}
     \item \emph{Relevance:}
     \begin{enumerate}
-        \item Does the study provides value for practice or research 
+        \item Does the study provides value for practice or research? 
      \end{enumerate}
 \end{enumerate}
 
@@ -171,11 +171,11 @@ Disagreements regarding the quality was usually resolved through a meeting. Whil
 
 In the first phase (identification) of this SLR, a total of 138 literature has been pooled from academia, and 24 from grey literature. Some of this literature has been added to the pool by the process of forward and backward searching. For instance, by reading NIST RA, we found out about Oracle, Facebook, and Amazon RAs and included those in the pool of the literature.
 
-In the screening phase, the literature that were not in-line with our inclusion and exclusion criteria have been eliminated. For example, if the paper was very short and was not on the topic of BD RA, or its ecosystem or limitations, it was excluded. As a result of this phase, 50 papers excluded. In the next phase, by assessing studies against the quality framework, 21 studies from academia, and 12 studies from grey literature pool has been eliminated. The flowchart is depicted in figure ~\ref{fig:PRISMA}.
+In the screening phase, the literature that were not in-line with our inclusion and exclusion criteria have been eliminated. For example, if the paper was very short and was not on the topic of BD RA, or its ecosystem or limitations, it was excluded. As a result of this phase, 50 papers were excluded. In the next phase, by assessing studies against the quality framework, 21 studies from academia, and 12 studies from grey literature pool has been eliminated. The flowchart is depicted in figure ~\ref{fig:PRISMA}.
 
 
 \begin{figure*}[t]
-    \includegraphics[width=18cm]{PRISMA/PRISMA_Flow_Diagram-2.pdf}
+    \includegraphics[width=18cm]{PRISMA/PRISMA_Flow_Diagram-Main.pdf}
     \caption{PRISMA flowchart}
     \label{fig:PRISMA}
 \end{figure*}
@@ -197,7 +197,7 @@ Precursor to synthesis of the actual data, we first followed the guidelines prop
 
 This process was a bit challenging, as some studies did not describe the method adequately, contextual information were not detailed often, and evaluation methods varied. To overcome this challenge, majority of this process took place in a consensus meeting \cite{dyba2007applying}.
 
-After data extraction, we began the coding process. For this step, we've had several approaches ahead of us. Either we could adopt a deductive or a prior approach \cite{miles1994qualitative} or an inductive or grounded theory approach \cite{corbin2014basics}. Neither of which could be as rigorous as we desired, thus we opted for an integrated approach \cite{lofland1971analyzing}. We used the software Nvivo to organize our files and created an initial set of a priori codes based on research questions. These codes are as followings;
+After data extraction, we began the coding process. For this step, we have had several approaches ahead of us. Either we could adopt a deductive or a prior approach \cite{miles1994qualitative} or an inductive or grounded theory approach \cite{corbin2014basics}. Neither of which could be as rigorous as we desired, thus we opted for an integrated approach \cite{lofland1971analyzing}. We used the software Nvivo to organize our files and created an initial set of a priori codes based on research questions. These codes are as followings;
 
 \begin{enumerate}
     \item BD RAs (RQ1)
@@ -205,9 +205,8 @@ After data extraction, we began the coding process. For this step, we've had sev
     \item BD RAs limitations (RQ3)
 \end{enumerate}
 
-As the coding progressed, we realized that there is a need to define some of the fundamental areas that seem to not have been well established in academia and practice. For instance, we've been looking for studies that discuss the fundamental concepts of RAs. This was to further support our initiative, but we soon realized that this area is not standardized, and while there was mention of these concepts, they were usually lacking or were very short. Furthermore, not many studies discussed the benefits and relevance of RAs for BD systems. We also could not find a study that thoroughly discusses common approaches to developing BD RAs, and the challenges of developing a BD RA.
+As the coding progressed, we realized that there is a need to define some of the fundamental areas that seem to not have been well established in academia and practice. For instance, we have been looking for studies that discuss the fundamental concepts of RAs. This was to further support our initiative, but we soon realized that this area is not standardized, and while there was mention of these concepts, they were usually lacking or were very short. Furthermore, not many studies discussed the benefits and relevance of RAs for BD systems. We also could not find a study that thoroughly discusses common approaches to developing BD RAs, and the challenges of developing a BD RA. Therefore, we added the following extra four codes;
 
-Based on these, therefore, we added the following extra four codes;
 \begin{enumerate}
     \item Fundamental concepts of RAs
     \item How can RAs help BD system development
@@ -217,11 +216,11 @@ Based on these, therefore, we added the following extra four codes;
 
 After having coded all the literature pooled, we began the process of turning them into themes. Themes helped us pull together segregated data into one meaningful whole that is above the sum of its constituents. This was not a single step process, and as we started to analyze codes, we have subsumed some first-cycle codes into higher-order codes. This also led to rearrangements and reclassification of the codes. The end of this process was marked, when the emerging themes saturated, and we could not derive a new theme. Many of the themes emerged have been then categorized into higher-order themes. 
 
-The last step of data synthesis, was creation of a model based on the higher-order themes to explain relationships and to answer original research questions. The final product of this phase, is a theory, connection with prior theories, and indication of relationships. 
+The last step of data synthesis, was creation of a model based on the higher-order themes to explain relationships and to answer original research questions. The final product of this phase, is a theory, connection with prior theories, and indication of relationships. A particular challenge we faced in this phase, was the influence of heterogeneity. This is due to inclusion of grey literature and cardinality of methodologies in software engineering research. 
 
-Of particular challenge we faced in this phase was the influence of heterogeneity, specifically given the inclusion of grey literature and cardinality of research methodologies in software engineering researches. Thus, to ensure the robustness of the higher-order themes we identified the main sources of variability as; 1) variability of outcomes (some RAs well evaluated in practice, while some other are just compared against other RAs), 2) variability in study designs (methodological diversity that exists in software engineering and specifically in creation of RAs), and 3) variability in study settings (contextual factors are often not well reported).
+Thus, to ensure the robustness of the higher-order themes we identified the main sources of variability as; 1) variability of outcomes (some RAs well evaluated in practice, while some other are just compared against other RAs), 2) variability in study designs (methodological diversity that exists in software engineering and specifically in creation of RAs), and 3) variability in study settings (contextual factors are often not well reported).
 
-Last, but not least, to increase the rigour, we assessed the trustworthiness of the synthesis from three aspects; 1) Credibility: is the focus of the research in-line with research questions, and does the thematic synthesis cover data well ? 2) Conformability: are data extracted and coded in the correct way? do all researchers agree on this? would readers agree with the approach ? 3) Transferability: are the findings generalizable, can the findings be applied in different context? 
+Last, but not least, to increase the rigour, we assessed the trustworthiness of the synthesis from three aspects; 1) Credibility: is the focus of the research in-line with research questions, and does the thematic synthesis cover data well? 2) Conformability: are data extracted and coded in the correct way? Do all researchers agree on this? would readers agree with the approach? 3) Transferability: are the findings generalizable, can the findings be applied in different context? 
 
 \section{Findings}
 
@@ -229,9 +228,9 @@ In this section, we map our findings against the research questions in a series 
 
 \subsection{What are the fundamental concepts of RAs?}
 
-As the complexity of man-made systems grow, procedures, principles, and concepts of software architecture are increasingly applied to address those complexity faced by practitioners \cite{AtaeiACIS}. A system abstracted and expressed in terms of architectural concepts, facilitates the understanding of system’s essence, properties revolving around it, and evolution of it, which in turn affects quality attributes such as performance, maintainability, and scalability. 
+As the complexity of man-made systems grow, procedures, principles, and concepts of software architecture are increasingly applied to address those complexity faced by practitioners \cite{AtaeiACIS}. A system abstracted and expressed in terms of architectural concepts, facilitates the understanding of system’s essence, properties revolving around it, and evolution of it. Which in turn affects quality attributes such as performance, maintainability, and scalability. 
 
-In recent years, IT architectures played a pivotal role in the progress and evolution of system development and gained acceptance in maintenance, planning, development, and cost reduction of complex systems \cite{martinez2015solid}. To address ambiguity about what should be developed to address what needs, an architecture can play an overarching role by portraying the fundamental components of the system and the means and ways in which these components communicate to achieve the overall goal of the system \cite{Sievi-Korte}. This in turn creates manageable components that can be used to address different aspect of the problem and provides stakeholders with an abstract artefact to observe, reflect upon, contribute to, and communicate with \cite{kohler2019towards}
+In recent years, IT architectures played a pivotal role in the progress and evolution of system development and gained acceptance in maintenance, planning, development, and cost reduction of complex systems \cite{martinez2015solid}. To address ambiguity about what should be developed to address what needs, an architecture can play an overarching role by portraying the fundamental components of the system \cite{Sievi-Korte}. This in turn creates manageable components that can be used to address different aspects of the problem and provide stakeholders with an abstract artefact to observe, reflect upon, contribute to, and communicate with \cite{kohler2019towards}.
 
 Many successful IT artefacts today stemmed from an effective RA. A few good examples are the Open Systems Interconnection model or OSI \cite{zimmermann1980osi}, Open Authentication or OATH \cite{OATH}, Common Object Request Broker Architecture or CORBA \cite{pope1998corba}, and WMS or workflow management systems \cite{greefhorst1999een}. In fact, every system goes with an architecture, either known or unknown, and it is in the architecture that the overall qualities of the system are defined
 
@@ -258,14 +257,14 @@ BD systems sail away from traditional small data analytics paradigms and bring v
 BD does not only mean ‘big’ amount of data, or just volume; other characteristics of BD such as velocity, variety, veracity and variability bring significant challenges to the practice. Although these challenges do not only belong to BD systems, BD exacerbates these challenges because of the following reasons;
 
 \begin{enumerate}
-    \item Distributed scaling is required to address batch and stream processing demands
-    \item There is a need for real near-time performance (stream processing) 
-    \item Complex technology orchestration is required to create effective communication channels between components and data flow
-    \item Continuous delivery is required to continually disseminate patterns and insights into various business domains (DataOps)
-    \item Two different approaches are required for data processing, stream and batch processing; or fast and delayed processing 
-    \item Metadata should be managed at scale 
-    \item Dimensional modeling for a rapidly changing schema is challenging 
-    \item There is a need for data privacy engineering
+    \item Distributed scaling is required to address batch and stream processing demands.
+    \item There is a need for real near-time performance (stream processing).
+    \item Complex technology orchestration is required to create effective communication channels between components and data flow.
+    \item Continuous delivery is required to continually disseminate patterns and insights into various business domains (DataOps).
+    \item Two different approaches are required for data processing, stream and batch processing; or fast and delayed processing.
+    \item Metadata should be managed at scale. 
+    \item Dimensional modeling for a rapidly changing schema is challenging. 
+    \item There is a need for data privacy engineering.
 \end{enumerate}
 
 To provide a solution to these challenges, one has to realize the core fundamentals of BD systems. Academic and practitioners of BD, describe BD as an interplay of methodology (workflow, organization), software engineering (data engineering, storage, etc.), and analysis (math, statistics) \cite{akhtar2019big}\cite{AtaeiBigDataEnvirons}. Therefore, one can deduce that technology orchestration and data architecture is a focal matter in BD system development and maintenance.
@@ -443,7 +442,7 @@ To answer this question in a systematic manner, and as a result of our data extr
 
 Different studies have chosen different phrases to describe their architectural components, and there seems to be no standard way of modeling BD RAs. The usage of architectural definition languages such as Archimate is scarce, and most studies have used boxes and lines with specifically defined ontologies. This made understanding and comparison of these RAs a difficult task that requires constant translation from one ontology to another. 
 
-Initially we've done an automated text analysis on these components' names to try to highlight commonalities and word usage. The word cloud of these components are portrayed in figure \ref{image:word-cloud}.
+Initially we have done an automated text analysis on these components' names to try to highlight commonalities and word usage. The word cloud of these components are portrayed in figure \ref{image:word-cloud}.
 
 \begin{figure*}[h]
     \includegraphics[width=18cm]{wordcloud.png}
@@ -461,7 +460,7 @@ One of the prominent characteristics of BD is ‘variety’, which rises the nee
  
 Choosing the right database or databases, is an important architectural decision that can also include patterns for data access, storage and caching. For example, the practitioners of distributed system that are specialized in micro-services architecture may opt to use Command Query Responsibility Segregation (CQRS) pattern for high performance event-driven applications \cite{marquez2018actual}. The type of storage and the access pattern are two major architectural components of big data systems. 
 
-The current landscape of BD RAs seems to revolve around monolithic storage solutions such as data warehouse and data lake. While the traditional practice of staging data, dimensional modeling, storage in data warehouses, and data marts as customized access layers, may seem ineffective in handling BD loads, we've been surprised to still witness some variations of this approach being proposed.  
+The current landscape of BD RAs seems to revolve around monolithic storage solutions such as data warehouse and data lake. While the traditional practice of staging data, dimensional modeling, storage in data warehouses, and data marts as customized access layers, may seem ineffective in handling BD loads, we have been surprised to still witness some variations of this approach being proposed.  
 
 Another architectural component that is popular in BD RAs is data lake. Data lake can be perceived as an ingestion framework that can be given various types of data including internal and external data. The data stored in the data lake is then usually retrieved for transformation. This is the LET (load, extract, transform) approach, comparing to old ETL (extract, transform, load) approaches. 
 
